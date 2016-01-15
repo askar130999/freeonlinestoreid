@@ -1,3 +1,232 @@
-Hello world.. Test
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KR14&#174; | KangRian.com</title>
+	<meta charset="utf-8"/>
+	<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
+	<link rel="icon" type="image/ico" href="http://profile.kangrian.com/assets/favicon.ico"/>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+<style>
+*, html {
+	text-decoration: none;
+	outline:none;
+}
+body {
+	background-color: #ededee;
+	margin:0;
+	padding:0;
+	font-family: arial,sans-serif;
+}
+header {
+	background-color: #ededee;
+	text-align: center;
+}
+header img {
+	max-width: 100%;
+	position: relative;
+	transition:all .4s ease;
+}
+header img:hover {
+	opacity: .9;
+}
+section {
+	background:#0b7ac0 url(http://profile.kangrian.com/assets/bg.jpg) no-repeat bottom center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	box-shadow: inset 0 6px 0 rgba(0,0,0,0.14), inset 0 -6px 0 rgba(0,0,0,0.14);
+	color:#fff;
+	text-shadow:0 1.5px 0 rgba(0,0,0,0.14);
+} 
+@media (max-width: 1020px) {
+	section {
+		background-size: auto 100%;
+	}
+}
+@media (max-width: 760px) {
+	section {
+		background-size: 100% 100%;
+	}
+}
+@media (max-width: 480px) {
+	section {
+		background-size: auto 100%;
+	}
+}
+section::after {
+	content:" ";
+	display: block;
+	clear: both;
+	padding-bottom: 50px;
+}
+section .item-wrapper {
+	margin:0 auto;
+	padding-top:60px;
+	width:800px;
+	max-width: 95%;
+	display: block;
+}
+section .item {
+	float:left;
+	width:49%;
+	margin:.5%;
+}
+@media (max-width: 760px) {
+	section .item {
+		float:none;
+		margin:0 auto;
+		width:90%;
+		margin:20px;
+	}
+}
+section .profil div.ava img {
+	height: 120px;
+	border-radius: 50%;
+	background:rgba(255,255,255,.30);
+	box-shadow: 0 2px 0 rgba(0,0,0,0.14);
+	float:left;
+	margin-right:10px;
+}
+@media (max-width: 760px) {
+	section .profil {
+		text-align: center;
+	}
+	section .profil div.ava img {
+		float:none;
+		display: block;
+		margin:0 auto;
+	}
+}
+section .profil h3 {
+	font-size:30px;
+	margin:0;
+	padding:0;
+	margin-top:10px;
+	margin-bottom:5px;
+	letter-spacing: -.5px;
+}
+section .profil h3 span {
+	font-size: 14px;
+	position: relative;
+	top:-10px;
+	left:-5px;
+}
+section .profil a {
+	color:#fff;
+}
+section .profil a:hover {
+	border-bottom:1px dotted #fff;
+}
+section .profil p {
+	margin:0;
+	padding:0;
+}
+section .contact {
+	background-color: rgba(0,0,0,0.10);
+	border-radius:3px;
+	box-shadow:inset 0 0 5px 1px rgba(0,0,0,0.10);
+}
+section .contact div.contact-wrapper {
+	margin:20px;
+}
+@media (max-width: 760px) {
+	section .contact div.contact-wrapper {
+		padding:20px 0;
+		text-align: center;
+	}
+}
+section .contact h3 {
+	padding-right: 10px;
+	margin:0;
+	padding-bottom:5px;
+	font-style: italic;
+	border-bottom:2px solid rgba(0,0,0,0.10);
+	color:#f2f2f2;
+}
+section .contact i {
+	font-size:18px;
+	position: relative;
+	bottom:-1px;
+}
+section .contact p {
+	margin:0;
+	padding:0;
+	margin:5px 0;
+	font-size: 14px;
+	opacity: .8;	
+}
+footer {
+	background-color: #ededee;
+	text-align: center;
+	font-size:12px;
+	color:#4d4d4d;
+	padding:20px 0 25px;
+}
 
-test atulah
+@media (max-width: 760px) {
+	footer span.web-follow {
+		display: none!important;
+	}
+	footer span.mobile-follow {
+		display: inline-block!important;
+	}
+}
+</style>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.4&appId=178816958941221";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+	<header>
+		<img src="http://profile.kangrian.com/assets/KRLogo.png" alt="logo">
+	</header>
+	<section>
+		<div class="item-wrapper">
+			<div class="item profil">
+				<div class="ava"><img src="http://profile.kangrian.com/assets/kr14.png" alt="Kang Rian" title="Kang Rian"/></div>
+				<h3>Kang Rian <span>#14</span></h3>
+				<p>Web Designer &amp; IT Consultant</p>
+				<p><small><i class="fa fa-map-marker"></i> Based in Bandung - Indonesia</small></p>
+				<p><small><i class="fa fa-globe"></i> <a href="http://studio.kangrian.com">http://studio.kangrian.com</a></small></p>
+			</div>
+			<div class="item contact">
+				<div class="contact-wrapper">
+					<h3>Stay connected...</h3>
+					<p><b><i class="fa fa-whatsapp"></i></b> 0896-0896-7971</p>
+					<p><b><i class="fa fa-envelope-o"></i></b> kangrian14@gmail.com</p>
+					<p><img src="http://profile.kangrian.com/assets/bbm.png" alt="bbm" title="BlackBerry Messenger" style="position:relative;bottom:-3px;height:13px;"> pin by request...</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer style="line-height:2.5">
+	&copy;2015 - <b>KR14</b>. <span style="position:relative;bottom:-5px;display:inline-block;" class="web-follow"><a class="twitter-follow-button"
+  href="https://twitter.com/RianNurherdian" data-size="small"></a></span> <span style="position:relative;bottom:-5px;display:none;" class="mobile-follow"><a class="twitter-follow-button" href="https://twitter.com/RianNurherdian"
+  data-size="small" data-count="none"></a></span>
+<iframe src="https://www.facebook.com/v2.4/plugins/like.php?app_id=113869198637480&amp;channel=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F6brUqVNoWO3.js%3Fversion%3D41%23cb%3Df339518aeecb70c%26domain%3Ddevelopers.facebook.com%26origin%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Ff14004590977e1c%26relation%3Dparent.parent&amp;container_width=588&amp;href=https%3A%2F%2Fwww.facebook.com%2Fkangriandotcom&amp;layout=button_count&amp;locale=id_ID&amp;sdk=joey&amp;share=false&amp;show_faces=true" style="width:100px;height:30px;border:none;outline:none;display:inline-block;margin-bottom:-15px;"></iframe>
+	</footer>
+</div>
+
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+ 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+ 
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+</body>
+</html>
