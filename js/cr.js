@@ -2,7 +2,7 @@ $(document).ready(function()
 {
 var aa=$("#copyright").val();
 if (aa == null) {
-window.location.href = "href","http://www.kangrian.com/";
+window.location.href = "http://www.kangrian.com/";
 };
 $("#copyright").attr("href","http://www.kangrian.com/");
 $("#copyright").text("Kang Rian");
