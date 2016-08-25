@@ -12,3 +12,5 @@ $("#copyright").attr("style","position:relative!important");
 $("#copyright").css("position","relative");
 $("#copyright").css("zIndex","+999");
 });
+
+// Save This code in <footer> → <a id="copyright"></a>
