@@ -10,5 +10,5 @@ $("#copyright").attr("title","KangRian.com | Creative Web & Graphic Designer fro
 $("#copyright").attr("style","display: inline-block !important");    
 $("#copyright").attr("style","position:relative!important");
 $("#copyright").css("position","relative");
-$("#copyright").css("zIndex","+1000000");
+$("#copyright").css("zIndex","+999");
 });
