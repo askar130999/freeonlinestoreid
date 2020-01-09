@@ -1,6 +1,6 @@
 var customLSN = [
 'localhost',
-'',
+'w3static.github.io',
 '',
 '',
 '',
