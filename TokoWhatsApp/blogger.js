@@ -478,7 +478,9 @@ $('textarea.code').each(function() {
     });
     $(this).attr('readonly', 'readonly');
 });
-
+$(window).on('load',function() {
+    $('.imgNotif a').css('visibility','');
+)};
 
 if (tw_config.FBPixel_ID != null || tw_config.FBPixel_ID != "") {
     ! function(f, b, e, v, n, t, s) {
