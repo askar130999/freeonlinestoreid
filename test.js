@@ -743,8 +743,9 @@ function get_url_parameter(name, url) {
 */
 
 const $license_item = 'marketlink-blogger-template';
-
-license(); // load license
+window.onload = function() {
+    license(); // load license
+}
 
 function license() {
 
