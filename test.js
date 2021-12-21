@@ -742,10 +742,9 @@ function get_url_parameter(name, url) {
 ████████████████████████████████████████████████████████
 */
 
-const $license_item = 'marketlink-blogger-template';
-window.onload = function() {
-    license(); // load license
-}
+const $license_item = 'marketlink-blogger-template'; // tentukan item_path
+
+license(); // load license
 
 function license() {
 
