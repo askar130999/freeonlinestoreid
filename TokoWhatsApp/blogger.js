@@ -13,7 +13,7 @@
     Terima kasih sudah menggunakan karya saya. :)
 
     Salam,
-    KangRian.NET
+    KangRian.NET ( Web & UI/UX Designer )
 
     Terakhir Diperbarui : 27/12/2021 @ 16:59
 
