@@ -15,7 +15,7 @@
     Salam,
     KangRian.NET ( Web & UI/UX Designer )
 
-    Terakhir Diperbarui : 28/12/2021 @ 13:59
+    Terakhir Diperbarui : 29/12/2021 @ 13:09
 
 ================================================================================================ */
 
