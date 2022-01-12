@@ -1,2 +1,1094 @@
-/* LAST UPDATE @ 2021-04-22T07:49:00+07:00 */
-var _0x4c18=['amountprice','toLowerCase','#cartPopup\x20#cartTotal\x20.subtotal\x20h2','async','change\x20blur','#cartPopup\x20.amountweight','height','form#formOrder\x20.acf-field[data-name=\x22kota_sales\x22]\x20.acf-input','toFixed','%</b>\x20OFF</span>','animate','focusHash','.title_case','left','.productQty\x20input','title_case','1px','.footerGrid\x20.widget_media_gallery\x20.gallery','parent','scroll','location','magnificPopup','.grid-wa','screen\x20and\x20(min-width:\x20769px)','#checkoutWA\x20label\x20.negara_pengirim','length','containerSelector','\x22]\x20.qty','toolbar=no,\x20location=no,\x20directories=no,\x20status=no,\x20menubar=no,\x20scrollbars=yes,\x20resizable=1,\x20copyhistory=no,\x20width=','.pageTitle\x20.toggleBtn','fixedScrollTop','.archiveWrap','wrap','product_','input','#page-loader','.productRecommend','data-target','<div\x20id=\x22page-loader\x22></div>','change','#cartPopup\x20.listItem','relative','marginTop','#cartPopup\x20#textCheckout\x20.subtotal\x20small','open','.qty','note','display:\x20block;max-width:100%;opacity:\x200;','unbind','data-effect','select#acf-field_5dc42eeab3e5e','\x22]\x20.note','\x22\x20style=\x22display:none;\x22/></div>','1616253CirtFi','toggle','border-box','reverse','paddingTop','.notifComRat\x20li:hidden','replace','</noscript>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<noscript\x20class=\x22weight\x22\x20data-weight=\x22','*\x20)%0A_','#slide\x20.owl-stage-outer','.thumbProduct','amountweight','apply','.poptamv','286709lHIltu','max-width:','container','initialized','queue','9aiRIrK','paddingBottom','click','#cartHeader\x20.off,\x20#cartPopup\x20.off','active','static','loaded','matches','additionalMarginTop','fadeOut','status','toUpperCase','\x22\x20belum\x20Aktif..<br/><br/><a\x20href=\x22https://www.kangrian.net/p/aktivasi-lisensi-website.html\x22\x20target=\x22_blank\x22\x20rel=\x22nofollow\x20external\x22>Cara\x20Aktivasi?</a>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','.item_product\x20.orderBtn\x20a.orderCart','.poptamv-time','position:relative;','#livesales\x20.item_livesales\x20.img','padding-bottom','false','269579IRfTcQ','<span\x20class=\x22listItem\x22\x20data-id=\x22','#cartHeader\x20.on,\x20#cartPopup\x20.on','delay','</small>','<iframe\x20src=\x22','data-bg','<div\x20class=\x22lazy-bg-placeholder\x22\x20style=\x22position:absolute;z-index:auto;top:0;left:0;right:0;bottom:0;background:','IDR','hideScroll','data-popHeight','form#formOrder\x20.acf-field[data-name=\x22kecamatan_sales\x22]\x20.acf-input','charAt','Escape','form#ulasanProduk\x20.acf-field[data-name=\x22rating_ulasan\x22]\x20.acf-input\x20ul\x20li\x20label',');\x22></li>','.btnCheckout','PageView','children','</span>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br/>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20class=\x22removeProductCart\x22\x20href=\x22javascript:void(0);\x22\x20title=\x22Hapus\x20produk?\x22><small>Hapus</small></a>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20</li>\x20\x20\x20\x20\x20\x20\x20\x20',',\x20top=','</b>\x20<small>x</small>\x20<span\x20class=\x22qty\x22>','absolute','link','</option>\x20\x20\x20\x20\x20\x20\x20\x20','<noscript><img\x20height=\x221\x22\x20width=\x221\x22\x20style=\x22display:none\x22\x20src=\x22https://www.facebook.com/tr?id=','</div>','\x22/>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</small>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22right\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<b\x20class=\x22amountprice\x22\x20data-amountprice=\x22','<div\x20class=\x22poptamv-time\x20poptamv-wrap\x22>','#cartPopup\x20.btnCheckout','contentWindow','keyup','*[data-bg]','grid-template-columns:1fr','[data-name=email_ulasan]','.titletamv-content','trigger','data-time','button.selected','remove','41299OSKgau','</span>','.wrap',':visible','padding-top','parentNode','onload','getJSON','img:first','data','prependTo','text','focus','\x22\x20/>','stickySidebarPaddingBottom','#livesales','#ulasanProduk\x20[type=email]','<i\x20class=\x27icon\x20ion-ios-arrow-back\x27></i>','log','stopPropagation','.itemTab','slideDown','each','<span\x20class=\x22discount\x22><b>-','fbq','offset','#header','mfp-figure','%0A','.lazy-bg-placeholder\x20img','onScroll','push','data-id','info','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','#header\x20.grid\x20.item.search','split','console','https://connect.facebook.net/en_US/fbevents.js','closest','hostname','val','min','406295iKTAma','theiaStickySidebar','<i\x20class=\x27icon\x20ion-ios-arrow-forward\x27></i>','version','#listCartPopup','data-price','form#formOrder\x20.acf-field[data-name=\x22berat_produk_sales\x22]\x20input','#livesales\x20.item_livesales','38187kPeYsI','\x22>*','pageYOffset','style','modern','#livesales\x20>\x20.item_livesales:gt(0)','#cartPopup\x20#textCheckout\x20.subtotal\x20b','slice','#product','\x22><img\x20class=\x22img\x22\x20src=\x22','unwrap','Purchase','.productOption2','#checkoutWA\x20label\x20.kecamatan','beforeunload','appendTo','.poptamvBtn','preventDefault','img','\x20\x20\x20\x20\x20\x20\x20\x20<li\x20class=\x22listItem\x22\x20data-id=\x22','#textCheckout\x20.listCart','toggleClass','#listCartHeader','small','\x22><img\x20src=\x22','parse','data-scroll','data-src','__proto__','size','Yakin\x20ingin\x20menghapus\x20produk\x20ini?','exception','addClass','mfp-figure\x20mfp-with-anim','getItem','#cartPopup\x20.cartForm','\x20:\x20','removeClass','.item.search','</option>\x22)','substr','additionalMarginBottom','.qtyPlus','select','css','src','27BaHLlc','ul.children\x20li','button','script','form#formOrder\x20.acf-field[data-name=\x22data_order_sales\x22]\x20.acf-input','.payShipIcon','.widget_media_gallery','sort','TST:\x20Body\x20width\x20smaller\x20than\x20options.minWidth.\x20Init\x20is\x20delayed.','#livesales\x20.item_livesales\x20.closelivesales','form#ulasanProduk\x20.acf-field[data-name=\x22_post_title\x22]\x20.acf-input','margin-top','#livesales\x20.item_livesales\x20a.cekSales',',\x20height=','one','.listProduct',',\x20left=','minWidth','image','matchMedia','stickySidebar','href','data-subtotal','sidebarBehavior','#cartPopup\x20#listCartPopup','.item_livesales','#checkoutWA\x20label\x20.alamat','#header\x20.grid\x20.item.search\x20form\x20span','\x22]\x20.link','stringify','.cartCheckout\x20a.btnCheckout','.productOption','#header\x20.grid\x20.item.search\x20form\x20input','</noscript>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br/>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20class=\x22note\x22\x20placeholder=\x22Tambahkan\x20Catatan...\x22\x20value=\x22','.item_product\x20.orderBtn\x20a','.priceArea\x20.normalPrice','1912374lniCGT','\x22\x20title=\x22Jumlah\x22>','constructor','top','form#ulasanProduk\x20.acf-field[data-name=\x22produk_ulasan\x22]\x20.acf-input','<style>.theiaStickySidebar:after\x20{content:\x20\x22\x22;\x20display:\x20table;\x20clear:\x20both;}</style>','qty','bind','<span\x20class=\x22normalPrice\x22>','width','#slide','fadeIn','body','selected','\x20x\x20','\x22><a\x20class=\x22link\x22\x20href=\x22','data-width','setItem','2.0','parents','.titleSearch\x20a','getElementsByTagName','.closelivesales','_fbq','.productOption\x20button','.notifComRat','true','removeAttr','#checkoutWA\x20label\x20.no_wa_pengirim','show','find','error','previousScrollTop','.priceArea','.lazy-bg-placeholder','.notifComRat\x20li','insertBefore','ulasan@','.listCart','form#formOrder\x20.acf-field[data-name=\x22no_wa_sales\x22]\x20.acf-input','innerHTML','#cartPopup\x20.cartForm\x20.nama','join','\x20Kg','<div\x20class=\x22poptamv-caption\x20poptamv-wrap\x22>','track','.imgArea,\x20.gallery,\x20.postContent','data-caption','marginBottom','\x0a\x0aTerima\x20kasih!\x20Admin\x20\x22','data-product-title','#header\x20.grid\x20.item.btnSearch\x20a,\x20.fixBtn\x20a.searchBtn','time','.poptamv\x20.closeTamv','\x22]\x20.price','.formWA\x20[type=email]','resize','<small>','#cartPopup','createElement','load','test','position','a:has(img)','.btnCart\x20.count','\x20%0ABerat\x20:\x20','background-image:url(','form#formOrder\x20.acf-field[data-name=\x22negara_sales\x22]\x20.acf-input','sidebar','class','https://member.kangrian.net/api/web-cek?prod_id=1&url=','#header\x20.grid\x20.item.search\x20.inSearch\x20.itemTab\x20ul\x20li.menu-item-has-children\x20>\x20i','_%0A%0A</span>','</a></h3>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<small\x20class=\x22note\x22>','scrollTop','off','</a></h3>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22qtyMin\x22>-</button><input\x20class=\x22qty\x22\x20type=\x22number\x22\x20value=\x22','.imgProducts','attr','.title','title','stickySidebarPaddingTop','form#formOrder\x20.acf-field[data-name=\x22alamat_sales\x22]\x20.acf-input','\x22]\x20.title','.productOption2\x20button','data-product-id','px!important;','max','.acf-input\x20input','.priceArea\x20.discount','return\x20/\x22\x20+\x20this\x20+\x20\x22/','data-weight','substring','a.cekSales','\x22]\x20.img','prepend','close','#cartPopup\x20.amountprice','append','ul:first','options','.titleCase','<option\x20value=\x22','data-title','data-amountweight','blur','html,\x20body','updateSidebarHeight','.price','outerHeight','#slide\x20.owl-carousel','removeItem','\x22></div>','data-iframe','iframe','<img\x20class=\x22poptamv-img\x22\x20style=\x22width:100%;height:auto;\x22\x20src=\x22','hash','#sidebar','toString','slideToggle','.content','#slide-ulasan\x20.owl-carousel','<b>','fbPixel_ID','#checkoutWA\x20label\x20.email','{\x22event\x22:\x22command\x22,\x22func\x22:\x22pauseVideo\x22,\x22args\x22:\x22\x22}','.listItem','data-discount','.qtyMin','keypress','.productOption,\x20.productOption2','owlCarousel','\x20[data-id=\x22','\x22]\x20.weight','#cartPopup\x20#textCheckout','\x22\x20selected>','data-popWidth','weight','html','ready','callMethod','price','form#ulasanProduk\x20.acf-field[data-name=\x22nama_ulasan\x22]\x20.acf-input\x20input','.item_product','.note','extend','6iIWSNk','\x22/></a>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22center\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20class=\x22title\x22\x20data-title=\x22','hide','fixed','<li\x20style=\x22background-image:url(','\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22','mouseleave','#livesales\x20>\x20.item_livesales:first','key','end'];function _0x33ad(_0x4cfbdf,_0x3e6ddc){_0x4cfbdf=_0x4cfbdf-0x1a4;var _0x4d1bae=_0x4c18[_0x4cfbdf];return _0x4d1bae;}var _0x1392e0=_0x33ad;(function(_0x1651cb,_0x5b0189){var _0x4c9fc9=_0x33ad;while(!![]){try{var _0x1849aa=parseInt(_0x4c9fc9(0x2e0))*-parseInt(_0x4c9fc9(0x2b2))+parseInt(_0x4c9fc9(0x231))+parseInt(_0x4c9fc9(0x304))+parseInt(_0x4c9fc9(0x257))+parseInt(_0x4c9fc9(0x23f))+-parseInt(_0x4c9fc9(0x244))*-parseInt(_0x4c9fc9(0x27f))+-parseInt(_0x4c9fc9(0x1f2))*parseInt(_0x4c9fc9(0x2aa));if(_0x1849aa===_0x5b0189)break;else _0x1651cb['push'](_0x1651cb['shift']());}catch(_0x579b23){_0x1651cb['push'](_0x1651cb['shift']());}}}(_0x4c18,0xf128b),function(_0x394a62){var _0x5941f0=_0x33ad;_0x394a62(_0x5941f0(0x1c5))[_0x5941f0(0x295)](function(){var _0x419e16=_0x5941f0;_0x394a62(this)['addClass'](_0x419e16(0x20b)),_0x394a62(this)['removeClass']('titleCase');}),_0x394a62(document)['on']('input',_0x5941f0(0x208),function(_0x46bb74){var _0x5a6d36=_0x5941f0;_0x46bb74[_0x5a6d36(0x292)]();var _0x1df67e=_0x394a62(this)[_0x5a6d36(0x2a8)]();_0x1df67e=_0x1df67e[_0x5a6d36(0x1fd)]()['split']('\x20');for(var _0x587724=0x0;_0x587724<_0x1df67e['length'];_0x587724++){_0x1df67e[_0x587724]=_0x1df67e[_0x587724]['charAt'](0x0)[_0x5a6d36(0x24f)]()+_0x1df67e[_0x587724][_0x5a6d36(0x2b9)](0x1);}_0x1df67e=_0x1df67e[_0x5a6d36(0x32e)]('\x20'),_0x394a62(this)[_0x5a6d36(0x2a8)](_0x1df67e);});if(tw_config[_0x5941f0(0x1db)]!==''){!function(_0x54e679,_0xa61379,_0xf0e731,_0x1ea34c,_0x13bf01,_0x763d21,_0x379d80){var _0x42eca5=_0x5941f0;if(_0x54e679[_0x42eca5(0x297)])return;_0x13bf01=_0x54e679[_0x42eca5(0x297)]=function(){var _0x238116=_0x42eca5;_0x13bf01[_0x238116(0x1ec)]?_0x13bf01['callMethod'][_0x238116(0x23d)](_0x13bf01,arguments):_0x13bf01[_0x238116(0x243)][_0x238116(0x29e)](arguments);};if(!_0x54e679[_0x42eca5(0x31b)])_0x54e679[_0x42eca5(0x31b)]=_0x13bf01;_0x13bf01[_0x42eca5(0x29e)]=_0x13bf01,_0x13bf01[_0x42eca5(0x24a)]=!0x0,_0x13bf01[_0x42eca5(0x2ad)]=_0x42eca5(0x316),_0x13bf01[_0x42eca5(0x243)]=[],_0x763d21=_0xa61379[_0x42eca5(0x33f)](_0xf0e731),_0x763d21[_0x42eca5(0x1ff)]=!0x0,_0x763d21[_0x42eca5(0x2df)]=_0x1ea34c,_0x379d80=_0xa61379[_0x42eca5(0x319)](_0xf0e731)[0x0],_0x379d80[_0x42eca5(0x284)][_0x42eca5(0x328)](_0x763d21,_0x379d80);}(window,document,_0x5941f0(0x2e3),_0x5941f0(0x2a5)),fbq('init',tw_config[_0x5941f0(0x1db)]),fbq(_0x5941f0(0x331),_0x5941f0(0x268)),_0x394a62(_0x5941f0(0x270)+tw_config[_0x5941f0(0x1db)]+'&amp;ev=PageView&amp;noscript=1\x22/></noscript>')[_0x5941f0(0x2c1)](_0x5941f0(0x310)),_0x394a62(window)[_0x5941f0(0x30b)](_0x5941f0(0x340),function(){var _0x552376=_0x5941f0;if(_0x394a62('#product')[_0x552376(0x1ea)]()!=undefined){var _0x41621c=_0x394a62(_0x552376(0x2ba))[_0x552376(0x322)](_0x552376(0x1ef))[_0x552376(0x322)](_0x552376(0x1cc))[_0x552376(0x1ae)](_0x552376(0x2af));fbq(_0x552376(0x331),'ViewContent',{'value':_0x41621c,'currency':_0x552376(0x25f)});}}),_0x394a62(document)['on'](_0x5941f0(0x246),_0x5941f0(0x302),function(){var _0x315afd=_0x5941f0,_0x3d9a01=_0x394a62(this)[_0x315afd(0x317)]('.item_product')[_0x315afd(0x322)](_0x315afd(0x1cc))['attr']('data-price'),_0x25c6b6=_0x394a62(this)[_0x315afd(0x317)]('.item_product')[_0x315afd(0x322)](_0x315afd(0x20a))[_0x315afd(0x2a8)]();fbq(_0x315afd(0x331),'AddToCart',{'value':_0x3d9a01,'quantity':_0x25c6b6,'currency':_0x315afd(0x25f)});}),_0x394a62(document)['one'](_0x5941f0(0x246),_0x5941f0(0x2fe),function(){var _0x1c68d6=_0x5941f0;fbq(_0x1c68d6(0x331),'InitiateCheckout');});function _0x204a3c(_0x7f301d){var _0x57ae89=_0x5941f0;fbq('track',_0x57ae89(0x2bd),{'value':_0x7f301d,'currency':'IDR'});}}_0x394a62(window)[_0x5941f0(0x30b)]('load',function(){_0x394a62(function(){var _0x5d29c0=_0x33ad;_0x394a62(_0x5d29c0(0x327))[_0x5d29c0(0x2e7)](_0x3e7989)['prependTo'](_0x5d29c0(0x31d));function _0x3e7989(_0x51a4c5,_0x53fc46){var _0x24f5a3=_0x5d29c0;return _0x394a62(_0x53fc46)[_0x24f5a3(0x288)](_0x24f5a3(0x338))>_0x394a62(_0x51a4c5)['data'](_0x24f5a3(0x338))?0x1:-0x1;}});}),_0x394a62(document)[_0x5941f0(0x1eb)](function(){var _0x7f725a=_0x5941f0,_0x172c6e=0x6;_0x394a62('.notifComRat\x20li')[_0x7f725a(0x2b9)](0x0,_0x172c6e)['show'](),_0x394a62('.notifComRat\x20.more')[_0x7f725a(0x246)](function(_0x39354f){var _0x50036b=_0x7f725a;_0x39354f[_0x50036b(0x2c3)](),_0x394a62(_0x50036b(0x236))[_0x50036b(0x2b9)](0x0,_0x172c6e)[_0x50036b(0x30f)]('slow'),_0x394a62(_0x50036b(0x236))[_0x50036b(0x215)]==0x0&&_0x394a62('.notifComRat\x20.more')['fadeOut']('slow');});}),_0x394a62('li.cat-item')['each'](function(){var _0x5cc7e0=_0x5941f0,_0x231ebd=_0x394a62(this)['html']();_0x231ebd=_0x231ebd[_0x5cc7e0(0x237)]('(',_0x5cc7e0(0x33d)),_0x231ebd=_0x231ebd['replace'](')',_0x5cc7e0(0x25b)),_0x394a62(this)[_0x5cc7e0(0x1ea)](_0x231ebd),_0x394a62(_0x5cc7e0(0x2c9),this)[_0x5cc7e0(0x289)](_0x394a62(this));}),_0x394a62(_0x5941f0(0x2e1))['each'](function(){var _0x291d7a=_0x5941f0,_0x46d6cb=_0x394a62(this)['html']();_0x46d6cb=_0x46d6cb['replace']('(',_0x291d7a(0x33d)),_0x46d6cb=_0x46d6cb['replace'](')',_0x291d7a(0x25b)),_0x394a62(this)['html'](_0x46d6cb),_0x394a62(_0x291d7a(0x2c9),this)['prependTo'](_0x394a62(this));});var _0x1971c6=window[_0x5941f0(0x2f3)](_0x5941f0(0x213));_0x1971c6[_0x5941f0(0x24b)]&&(!function(_0x27ef94){var _0xb57d2f=_0x5941f0;_0x27ef94['fn'][_0xb57d2f(0x2ab)]=function(_0x2fe6d0){var _0x5f1374=_0xb57d2f;function _0x57fdd6(_0x31af0c,_0x30cc5c){var _0x44e57e=_0x33ad,_0xa77ff3=_0x306cfe(_0x31af0c,_0x30cc5c);_0xa77ff3||(console[_0x44e57e(0x291)](_0x44e57e(0x2e8)),_0x27ef94(document)[_0x44e57e(0x20f)](function(_0x2bc0ab,_0x44b0d3){return function(_0x3220c6){var _0x1bee11=_0x33ad,_0x271b48=_0x306cfe(_0x2bc0ab,_0x44b0d3);_0x271b48&&_0x27ef94(this)[_0x1bee11(0x22c)](_0x3220c6);};}(_0x31af0c,_0x30cc5c)),_0x27ef94(window)[_0x44e57e(0x33c)](function(_0x1d9fa3,_0x8649c){return function(_0x226245){var _0x24fb8f=_0x33ad,_0x2fabcd=_0x306cfe(_0x1d9fa3,_0x8649c);_0x2fabcd&&_0x27ef94(this)[_0x24fb8f(0x22c)](_0x226245);};}(_0x31af0c,_0x30cc5c)));}function _0x306cfe(_0x458de9,_0x2bfb60){var _0x3b56fd=_0x33ad;return _0x458de9[_0x3b56fd(0x242)]===!0x0?!0x0:_0x27ef94(_0x3b56fd(0x310))['width']()<_0x458de9['minWidth']?!0x1:(_0x1ec60a(_0x458de9,_0x2bfb60),!0x0);}function _0x1ec60a(_0x3e0167,_0x127d63){var _0x4bac7b=_0x33ad;_0x3e0167[_0x4bac7b(0x242)]=!0x0,_0x27ef94('head')[_0x4bac7b(0x1c2)](_0x27ef94(_0x4bac7b(0x309))),_0x127d63['each'](function(){var _0x31e084=_0x4bac7b;function _0x5d2ac4(){var _0x220f20=_0x33ad;_0x2a7710[_0x220f20(0x21a)]=0x0,_0x2a7710['sidebar']['css']({'min-height':_0x220f20(0x20c)}),_0x2a7710[_0x220f20(0x2f4)][_0x220f20(0x2de)]({'position':_0x220f20(0x249),'width':''});}function _0x1bbf22(_0x459086){var _0x1fd78f=_0x33ad,_0x4ff338=_0x459086[_0x1fd78f(0x202)]();return _0x459086['children']()[_0x1fd78f(0x295)](function(){var _0x51c4e3=_0x1fd78f;_0x4ff338=Math[_0x51c4e3(0x1b7)](_0x4ff338,_0x27ef94(this)[_0x51c4e3(0x202)]());}),_0x4ff338;}var _0x2a7710={};_0x2a7710[_0x31e084(0x1a4)]=_0x27ef94(this),_0x2a7710['options']=_0x3e0167||{},_0x2a7710[_0x31e084(0x241)]=_0x27ef94(_0x2a7710[_0x31e084(0x1c4)][_0x31e084(0x216)]),0x0==_0x2a7710[_0x31e084(0x241)][_0x31e084(0x2cf)]()&&(_0x2a7710[_0x31e084(0x241)]=_0x2a7710[_0x31e084(0x1a4)][_0x31e084(0x20e)]()),_0x2a7710[_0x31e084(0x1a4)][_0x31e084(0x2de)]({'position':_0x31e084(0x225),'overflow':'visible','-webkit-box-sizing':'border-box','-moz-box-sizing':_0x31e084(0x233),'box-sizing':_0x31e084(0x233)}),_0x2a7710[_0x31e084(0x2f4)]=_0x2a7710[_0x31e084(0x1a4)][_0x31e084(0x322)]('.theiaStickySidebar'),0x0==_0x2a7710[_0x31e084(0x2f4)]['length']&&(_0x2a7710[_0x31e084(0x1a4)]['find'](_0x31e084(0x2e3))['remove'](),_0x2a7710[_0x31e084(0x2f4)]=_0x27ef94('<div>')['addClass'](_0x31e084(0x2ab))[_0x31e084(0x1c2)](_0x2a7710['sidebar'][_0x31e084(0x269)]()),_0x2a7710[_0x31e084(0x1a4)][_0x31e084(0x1c2)](_0x2a7710[_0x31e084(0x2f4)])),_0x2a7710[_0x31e084(0x226)]=parseInt(_0x2a7710[_0x31e084(0x1a4)][_0x31e084(0x2de)](_0x31e084(0x2eb))),_0x2a7710['marginBottom']=parseInt(_0x2a7710[_0x31e084(0x1a4)][_0x31e084(0x2de)]('margin-bottom')),_0x2a7710[_0x31e084(0x235)]=parseInt(_0x2a7710['sidebar'][_0x31e084(0x2de)](_0x31e084(0x283))),_0x2a7710[_0x31e084(0x245)]=parseInt(_0x2a7710['sidebar'][_0x31e084(0x2de)](_0x31e084(0x255)));var _0x55c8da=_0x2a7710[_0x31e084(0x2f4)][_0x31e084(0x298)]()['top'],_0x5cd845=_0x2a7710[_0x31e084(0x2f4)]['outerHeight']();_0x2a7710[_0x31e084(0x2f4)]['css'](_0x31e084(0x283),0x1),_0x2a7710[_0x31e084(0x2f4)]['css'](_0x31e084(0x255),0x1),_0x55c8da-=_0x2a7710[_0x31e084(0x2f4)][_0x31e084(0x298)]()[_0x31e084(0x307)],_0x5cd845=_0x2a7710[_0x31e084(0x2f4)][_0x31e084(0x1cd)]()-_0x5cd845-_0x55c8da,0x0==_0x55c8da?(_0x2a7710[_0x31e084(0x2f4)][_0x31e084(0x2de)](_0x31e084(0x283),0x0),_0x2a7710[_0x31e084(0x1b1)]=0x0):_0x2a7710['stickySidebarPaddingTop']=0x1,0x0==_0x5cd845?(_0x2a7710[_0x31e084(0x2f4)][_0x31e084(0x2de)](_0x31e084(0x255),0x0),_0x2a7710[_0x31e084(0x28d)]=0x0):_0x2a7710['stickySidebarPaddingBottom']=0x1,_0x2a7710['previousScrollTop']=null,_0x2a7710[_0x31e084(0x21a)]=0x0,_0x5d2ac4(),_0x2a7710[_0x31e084(0x29d)]=function(_0x3cbf3d){var _0x2b7fb3=_0x31e084;if(_0x3cbf3d[_0x2b7fb3(0x2f4)]['is'](_0x2b7fb3(0x282))){if(_0x27ef94(_0x2b7fb3(0x310))[_0x2b7fb3(0x30d)]()<_0x3cbf3d['options'][_0x2b7fb3(0x2f1)])return void _0x5d2ac4();if(_0x3cbf3d[_0x2b7fb3(0x1a4)]['outerWidth'](!0x0)+0x32>_0x3cbf3d[_0x2b7fb3(0x241)][_0x2b7fb3(0x30d)]())return void _0x5d2ac4();var _0x4c1314=_0x27ef94(document)[_0x2b7fb3(0x1aa)](),_0x46e321=_0x2b7fb3(0x249);if(_0x4c1314>=_0x3cbf3d['container'][_0x2b7fb3(0x298)]()[_0x2b7fb3(0x307)]+(_0x3cbf3d['paddingTop']+_0x3cbf3d[_0x2b7fb3(0x226)]-_0x3cbf3d['options'][_0x2b7fb3(0x24c)])){var _0x2ba72d,_0xb7e3ad=_0x3cbf3d[_0x2b7fb3(0x235)]+_0x3cbf3d[_0x2b7fb3(0x226)]+_0x3e0167[_0x2b7fb3(0x24c)],_0x304491=_0x3cbf3d[_0x2b7fb3(0x245)]+_0x3cbf3d[_0x2b7fb3(0x334)]+_0x3e0167[_0x2b7fb3(0x2db)],_0x2be28a=_0x3cbf3d[_0x2b7fb3(0x241)][_0x2b7fb3(0x298)]()[_0x2b7fb3(0x307)],_0x93b8b9=_0x3cbf3d[_0x2b7fb3(0x241)]['offset']()[_0x2b7fb3(0x307)]+_0x1bbf22(_0x3cbf3d['container']),_0x138177=0x0+_0x3e0167[_0x2b7fb3(0x24c)],_0x5efa03=_0x3cbf3d[_0x2b7fb3(0x2f4)][_0x2b7fb3(0x1cd)]()+_0xb7e3ad+_0x304491<_0x27ef94(window)[_0x2b7fb3(0x202)]();_0x2ba72d=_0x5efa03?_0x138177+_0x3cbf3d['stickySidebar'][_0x2b7fb3(0x1cd)]():_0x27ef94(window)['height']()-_0x3cbf3d[_0x2b7fb3(0x334)]-_0x3cbf3d['paddingBottom']-_0x3e0167[_0x2b7fb3(0x2db)];var _0x1fa729=_0x2be28a-_0x4c1314+_0x3cbf3d['paddingTop']+_0x3cbf3d['marginTop'],_0x5753c1=_0x93b8b9-_0x4c1314-_0x3cbf3d[_0x2b7fb3(0x245)]-_0x3cbf3d[_0x2b7fb3(0x334)],_0x5e09a4=_0x3cbf3d[_0x2b7fb3(0x2f4)][_0x2b7fb3(0x298)]()['top']-_0x4c1314,_0x368dc0=_0x3cbf3d[_0x2b7fb3(0x324)]-_0x4c1314;_0x2b7fb3(0x1f5)==_0x3cbf3d['stickySidebar'][_0x2b7fb3(0x2de)](_0x2b7fb3(0x342))&&_0x2b7fb3(0x2b6)==_0x3cbf3d['options']['sidebarBehavior']&&(_0x5e09a4+=_0x368dc0),'legacy'==_0x3cbf3d[_0x2b7fb3(0x1c4)][_0x2b7fb3(0x2f7)]&&(_0x5e09a4=_0x2ba72d-_0x3cbf3d[_0x2b7fb3(0x2f4)]['outerHeight'](),_0x5e09a4=Math[_0x2b7fb3(0x1b7)](_0x5e09a4,_0x2ba72d-_0x3cbf3d[_0x2b7fb3(0x2f4)][_0x2b7fb3(0x1cd)]())),_0x5e09a4=_0x368dc0>0x0?Math[_0x2b7fb3(0x2a9)](_0x5e09a4,_0x138177):Math['max'](_0x5e09a4,_0x2ba72d-_0x3cbf3d[_0x2b7fb3(0x2f4)]['outerHeight']()),_0x5e09a4=Math[_0x2b7fb3(0x1b7)](_0x5e09a4,_0x1fa729),_0x5e09a4=Math['min'](_0x5e09a4,_0x5753c1-_0x3cbf3d['stickySidebar'][_0x2b7fb3(0x1cd)]());var _0x4a9583=_0x3cbf3d[_0x2b7fb3(0x241)][_0x2b7fb3(0x202)]()==_0x3cbf3d[_0x2b7fb3(0x2f4)][_0x2b7fb3(0x1cd)]();_0x46e321=(_0x4a9583||_0x5e09a4!=_0x138177)&&(_0x4a9583||_0x5e09a4!=_0x2ba72d-_0x3cbf3d[_0x2b7fb3(0x2f4)][_0x2b7fb3(0x1cd)]())?_0x4c1314+_0x5e09a4-_0x3cbf3d[_0x2b7fb3(0x1a4)][_0x2b7fb3(0x298)]()['top']-_0x3cbf3d[_0x2b7fb3(0x235)]<=_0x3e0167[_0x2b7fb3(0x24c)]?_0x2b7fb3(0x249):_0x2b7fb3(0x26d):_0x2b7fb3(0x1f5);}if('fixed'==_0x46e321)_0x3cbf3d[_0x2b7fb3(0x2f4)][_0x2b7fb3(0x2de)]({'position':_0x2b7fb3(0x1f5),'width':_0x3cbf3d[_0x2b7fb3(0x1a4)]['width'](),'top':_0x5e09a4,'left':_0x3cbf3d['sidebar'][_0x2b7fb3(0x298)]()['left']+parseInt(_0x3cbf3d[_0x2b7fb3(0x1a4)]['css']('padding-left'))});else{if(_0x2b7fb3(0x26d)==_0x46e321){var _0x2abe36={};_0x2b7fb3(0x26d)!=_0x3cbf3d[_0x2b7fb3(0x2f4)]['css'](_0x2b7fb3(0x342))&&(_0x2abe36[_0x2b7fb3(0x342)]=_0x2b7fb3(0x26d),_0x2abe36[_0x2b7fb3(0x307)]=_0x4c1314+_0x5e09a4-_0x3cbf3d['sidebar']['offset']()[_0x2b7fb3(0x307)]-_0x3cbf3d['stickySidebarPaddingTop']-_0x3cbf3d[_0x2b7fb3(0x28d)]),_0x2abe36[_0x2b7fb3(0x30d)]=_0x3cbf3d['sidebar'][_0x2b7fb3(0x30d)](),_0x2abe36[_0x2b7fb3(0x209)]='',_0x3cbf3d[_0x2b7fb3(0x2f4)]['css'](_0x2abe36);}else _0x2b7fb3(0x249)==_0x46e321&&_0x5d2ac4();}'static'!=_0x46e321&&0x1==_0x3cbf3d['options'][_0x2b7fb3(0x1cb)]&&_0x3cbf3d[_0x2b7fb3(0x1a4)][_0x2b7fb3(0x2de)]({'min-height':_0x3cbf3d[_0x2b7fb3(0x2f4)]['outerHeight']()+_0x3cbf3d[_0x2b7fb3(0x2f4)][_0x2b7fb3(0x298)]()[_0x2b7fb3(0x307)]-_0x3cbf3d['sidebar'][_0x2b7fb3(0x298)]()[_0x2b7fb3(0x307)]+_0x3cbf3d['paddingBottom']}),_0x3cbf3d[_0x2b7fb3(0x324)]=_0x4c1314;}},_0x2a7710['onScroll'](_0x2a7710),_0x27ef94(document)['scroll'](function(_0x505204){return function(){var _0x8919e7=_0x33ad;_0x505204[_0x8919e7(0x29d)](_0x505204);};}(_0x2a7710)),_0x27ef94(window)[_0x31e084(0x33c)](function(_0x245ab7){return function(){var _0x1131e8=_0x33ad;_0x245ab7[_0x1131e8(0x2f4)][_0x1131e8(0x2de)]({'position':_0x1131e8(0x249)}),_0x245ab7[_0x1131e8(0x29d)](_0x245ab7);};}(_0x2a7710));});}var _0x2e3973={'containerSelector':'','additionalMarginTop':0x0,'additionalMarginBottom':0x0,'updateSidebarHeight':!0x0,'minWidth':0x0,'sidebarBehavior':'modern'};_0x2fe6d0=_0x27ef94[_0x5f1374(0x1f1)](_0x2e3973,_0x2fe6d0),_0x2fe6d0[_0x5f1374(0x24c)]=parseInt(_0x2fe6d0[_0x5f1374(0x24c)])||0x0,_0x2fe6d0[_0x5f1374(0x2db)]=parseInt(_0x2fe6d0['additionalMarginBottom'])||0x0,_0x57fdd6(_0x2fe6d0,this);};}(jQuery),_0x394a62(document)['ready'](function(){var _0x11edd8=_0x5941f0,_0x1a89de=_0x394a62(_0x11edd8(0x1d5));_0x1a89de!=null&&_0x1a89de[_0x11edd8(0x2ab)]({'additionalMarginTop':_0x394a62(_0x11edd8(0x299))[_0x11edd8(0x202)]()+0x14,'additionalMarginBottom':0x14});var _0x1a89de=_0x394a62(_0x11edd8(0x220));_0x1a89de!=null&&_0x1a89de[_0x11edd8(0x2ab)]({'additionalMarginTop':_0x394a62(_0x11edd8(0x299))[_0x11edd8(0x202)]()+0x14,'additionalMarginBottom':0x50});var _0x1a89de=_0x394a62('.archiveWrap\x20>\x20nav');_0x1a89de!=null&&_0x1a89de[_0x11edd8(0x2ab)]({'additionalMarginTop':_0x394a62(_0x11edd8(0x299))[_0x11edd8(0x202)]()+0x14,'additionalMarginBottom':0x50});}));_0x394a62('a')[_0x5941f0(0x295)](function(){var _0x2c1b7d=_0x5941f0,_0x918568=_0x394a62(this)[_0x2c1b7d(0x1ae)](_0x2c1b7d(0x2f5));_0x918568==window[_0x2c1b7d(0x210)]&&_0x394a62(this)[_0x2c1b7d(0x2d2)]('current');}),_0x394a62(document)['on']('click',_0x5941f0(0x219),function(){var _0x110cec=_0x5941f0;_0x394a62(this)[_0x110cec(0x2c7)]('toggle'),_0x394a62(_0x110cec(0x21b))[_0x110cec(0x2c7)](_0x110cec(0x232));}),_0x394a62('.footerGrid\x20.widget_media_gallery')[_0x5941f0(0x1c2)]('<ul\x20class=\x22payShipIcon\x22></ul>'),_0x394a62('.footerGrid\x20.widget_media_gallery\x20figure')[_0x5941f0(0x295)](function(){var _0x482cb9=_0x5941f0,_0x1c96ef=_0x394a62(_0x482cb9(0x2c4),this)[_0x482cb9(0x1ae)](_0x482cb9(0x2cd));_0x394a62('img',this)['parents'](_0x482cb9(0x2e6))[_0x482cb9(0x322)](_0x482cb9(0x2e5))['append'](_0x482cb9(0x1f6)+_0x1c96ef+_0x482cb9(0x266));}),_0x394a62(_0x5941f0(0x20d))['remove']();function _0x4daafc(_0x257bc3){var _0x7651c6=_0x5941f0,_0x428dcb='';if(_0x257bc3==0x0){}else var _0x428dcb=_0x257bc3/0x3e8+_0x7651c6(0x32f);return _0x428dcb;}function _0x3b1fc3(_0x460c9e,_0x4f7f09){var _0x26326a=_0x5941f0;return document[_0x26326a(0x310)][_0x26326a(0x32c)]=document[_0x26326a(0x310)][_0x26326a(0x32c)][_0x26326a(0x237)](_0x460c9e,_0x4f7f09);}function _0x235b91(_0x4be534){var _0x7b281e=_0x5941f0,_0x17671f=_0x4be534[_0x7b281e(0x2a3)]('\x20');for(var _0x41addf=0x0;_0x41addf<_0x17671f[_0x7b281e(0x215)];_0x41addf++){var _0x5ca8eb=_0x17671f[_0x41addf][_0x7b281e(0x263)](0x0)[_0x7b281e(0x24f)]();_0x17671f[_0x41addf]=_0x5ca8eb+_0x17671f[_0x41addf][_0x7b281e(0x2da)](0x1);}return _0x17671f['join']('\x20');}_0x3b1fc3('seconds','detik'),_0x394a62(document)['ready'](function(){var _0x4d187a=_0x5941f0,_0x55be28=_0x394a62(_0x4d187a(0x299))[_0x4d187a(0x202)]();_0x394a62(_0x4d187a(0x310))[_0x4d187a(0x1ae)]('style','padding-top:'+_0x55be28+'px');var _0x481f37=0x0;window['addEventListener'](_0x4d187a(0x20f),function(){var _0x5d2e5a=_0x4d187a,_0xd0d068=this[_0x5d2e5a(0x2b4)];if(document['body'][_0x5d2e5a(0x1aa)]>_0x55be28||document['documentElement'][_0x5d2e5a(0x1aa)]>_0x55be28){if(_0x481f37<_0xd0d068){}else{if(_0x481f37>_0xd0d068){}}_0x481f37=_0xd0d068;}},![]),_0x394a62(document[_0x4d187a(0x310)])[_0x4d187a(0x1c2)](_0x4d187a(0x222));}),_0x394a62(window)['on'](_0x5941f0(0x2c0),function(){var _0x59dfab=_0x5941f0;_0x394a62(_0x59dfab(0x23e))[_0x59dfab(0x2d7)](_0x59dfab(0x228)),_0x394a62[_0x59dfab(0x211)][_0x59dfab(0x1c0)](),_0x394a62(_0x59dfab(0x2a2))[_0x59dfab(0x2d7)]('active'),_0x394a62(_0x59dfab(0x21f))['fadeIn'](0x1f4)[_0x59dfab(0x25a)](0x3e8)[_0x59dfab(0x24d)](0x3e8);}),_0x394a62(document)[_0x5941f0(0x1eb)](function(){var _0x3040ae=_0x5941f0;if(window[_0x3040ae(0x210)][_0x3040ae(0x1d4)]){var _0x1d717a=window['location'][_0x3040ae(0x1d4)];_0x394a62(window)[_0x3040ae(0x30b)](_0x3040ae(0x340),function(){var _0x27b6fd=_0x3040ae;_0x394a62('html,\x20body')[_0x27b6fd(0x206)]({'scrollTop':_0x394a62(_0x1d717a)[_0x27b6fd(0x298)]()[_0x27b6fd(0x307)]-_0x394a62(_0x27b6fd(0x299))[_0x27b6fd(0x202)]()-0x14},0x3e8),_0x394a62(_0x1d717a)[_0x27b6fd(0x2d2)]('focusHash'),setTimeout(function(){var _0x59f1cf=_0x27b6fd;_0x394a62(_0x1d717a)[_0x59f1cf(0x2d7)](_0x59f1cf(0x207));},0x578);});}}),_0x394a62(_0x5941f0(0x310))['on'](_0x5941f0(0x246),'a',function(_0x18bf38){var _0x40541f=_0x5941f0;if(_0x394a62(this)[_0x40541f(0x1ae)](_0x40541f(0x2cc))==_0x40541f(0x31e)){_0x18bf38[_0x40541f(0x2c3)]();var _0x3d0d35=this[_0x40541f(0x1d4)];_0x394a62(_0x40541f(0x1ca))[_0x40541f(0x206)]({'scrollTop':_0x394a62(_0x3d0d35)[_0x40541f(0x298)]()[_0x40541f(0x307)]-_0x394a62('#header')[_0x40541f(0x202)]()-0xa},0x3e8),_0x394a62(_0x3d0d35)['addClass'](_0x40541f(0x207)),setTimeout(function(){var _0x4db8a0=_0x40541f;_0x394a62(_0x3d0d35)[_0x4db8a0(0x2d7)]('focusHash');},0x7d0);}}),_0x394a62('#checkoutWA\x20label\x20.nama')['on'](_0x5941f0(0x276),function(){var _0x35a379=_0x5941f0;_0x394a62('form#formOrder\x20.acf-field[data-name=\x22_post_title\x22]\x20.acf-input')[_0x35a379(0x322)](_0x35a379(0x21e))[_0x35a379(0x2a8)](_0x235b91(_0x394a62(this)[_0x35a379(0x2a8)]()));}),_0x394a62(_0x5941f0(0x1dc))['on'](_0x5941f0(0x276),function(){var _0x3aa82d=_0x5941f0;_0x394a62('form#formOrder\x20.acf-field[data-name=\x22email_sales\x22]\x20.acf-input')[_0x3aa82d(0x322)](_0x3aa82d(0x21e))['val'](_0x394a62(this)[_0x3aa82d(0x2a8)]());}),_0x394a62(window)[_0x5941f0(0x30b)](_0x5941f0(0x340),function(){var _0x1b5b15=_0x5941f0,_0x367039=_0x394a62(_0x1b5b15(0x214))[_0x1b5b15(0x2a8)]();_0x394a62(_0x1b5b15(0x347))['find'](_0x1b5b15(0x21e))[_0x1b5b15(0x2a8)](_0x367039),_0x394a62(_0x1b5b15(0x214))['on'](_0x1b5b15(0x223),function(){var _0x32d52e=_0x1b5b15;_0x394a62('form#formOrder\x20.acf-field[data-name=\x22negara_sales\x22]\x20.acf-input')[_0x32d52e(0x322)](_0x32d52e(0x21e))[_0x32d52e(0x2a8)](_0x394a62(this)[_0x32d52e(0x2a8)]());});}),_0x394a62(_0x5941f0(0x320))['on'](_0x5941f0(0x276),function(){var _0x56202d=_0x5941f0;_0x394a62(_0x56202d(0x32b))[_0x56202d(0x322)](_0x56202d(0x21e))[_0x56202d(0x2a8)](_0x394a62(this)[_0x56202d(0x2a8)]());}),_0x394a62('#checkoutWA\x20label\x20.grup-alamat')['on'](_0x5941f0(0x276),function(){var _0x5f283f=_0x5941f0,_0x1f549a=_0x394a62(_0x5f283f(0x2fa))['val'](),_0x29f60f=_0x394a62('#checkoutWA\x20label\x20.kota')['val'](),_0x4e99dc=_0x394a62(_0x5f283f(0x2bf))[_0x5f283f(0x2a8)]();_0x394a62(_0x5f283f(0x1b2))[_0x5f283f(0x322)](_0x5f283f(0x21e))[_0x5f283f(0x2a8)](_0x235b91(_0x1f549a)),_0x394a62(_0x5f283f(0x203))[_0x5f283f(0x322)](_0x5f283f(0x21e))['val'](_0x235b91(_0x29f60f)),_0x394a62(_0x5f283f(0x262))[_0x5f283f(0x322)](_0x5f283f(0x21e))[_0x5f283f(0x2a8)](_0x235b91(_0x4e99dc));}),_0x394a62(window)[_0x5941f0(0x30b)](_0x5941f0(0x340),function(){var _0x25f278=_0x5941f0;_0x394a62(_0x25f278(0x332))[_0x25f278(0x295)](function(){var _0x45ec8f=_0x25f278;_0x394a62(this)[_0x45ec8f(0x211)]({'delegate':_0x45ec8f(0x343),'type':_0x45ec8f(0x2f2),'preload':[0x1,0x2],'gallery':{'enabled':!![]},'callbacks':{'beforeOpen':function(){var _0x11e75c=_0x45ec8f;this['st'][_0x11e75c(0x2f2)]['markup']=this['st']['image']['markup'][_0x11e75c(0x237)](_0x11e75c(0x29a),_0x11e75c(0x2d3)),this['st']['mainClass']=this['st']['el']['attr'](_0x11e75c(0x22d));}},'closeOnContentClick':!![],'midClick':!![]});});var _0x567158=_0x394a62(_0x25f278(0x2ba))['attr'](_0x25f278(0x1b5)),_0x570b25=_0x394a62('#product')[_0x25f278(0x1ae)](_0x25f278(0x336));_0x394a62(_0x25f278(0x308))['find'](_0x25f278(0x2dd))[_0x25f278(0x1ea)](_0x25f278(0x1c6)+_0x567158+'\x22>'+_0x570b25+_0x25f278(0x2d9)),_0x394a62(_0x25f278(0x2ea))[_0x25f278(0x322)]('input')[_0x25f278(0x2a8)](_0x570b25),_0x394a62(_0x25f278(0x1ee))['on'](_0x25f278(0x276),function(){var _0xa61436=_0x25f278,_0x5ee911=_0x394a62(this)[_0xa61436(0x2a8)]();_0x394a62(this)['val'](_0x235b91(_0x5ee911)),_0x394a62('form#ulasanProduk\x20.acf-field[data-name=\x22_post_title\x22]\x20.acf-input')[_0xa61436(0x322)](_0xa61436(0x21e))[_0xa61436(0x2a8)](_0x5ee911+_0xa61436(0x2d6)+_0x570b25);}),_0x394a62(_0x25f278(0x1b8))[_0x25f278(0x295)](function(){var _0x2e5dde=_0x25f278;_0x394a62(this)['attr']('autocomplete',_0x2e5dde(0x1ab));}),_0x394a62(_0x25f278(0x265))[_0x25f278(0x295)](function(){var _0x40a941=_0x25f278,_0xe9a18f=_0x394a62(this)[_0x40a941(0x1ae)](_0x40a941(0x1a5));_0xe9a18f==='selected'&&_0x394a62(this)[_0x40a941(0x317)]('li')[_0x40a941(0x2d2)]('selected');}),_0x394a62(document)['on'](_0x25f278(0x246),_0x25f278(0x265),function(){var _0x50c3e6=_0x25f278;_0x394a62(this)[_0x50c3e6(0x317)]('li')[_0x50c3e6(0x2d2)](_0x50c3e6(0x311));});}),_0x394a62(_0x5941f0(0x337))['on'](_0x5941f0(0x246),function(){var _0xaa4f2f=_0x5941f0;_0x394a62(_0xaa4f2f(0x2a2))[_0xaa4f2f(0x2d2)](_0xaa4f2f(0x248)),setTimeout(function(){var _0xa8b49c=_0xaa4f2f;_0x394a62(_0xa8b49c(0x300))['focus']();},0xc8);}),_0x394a62(_0x5941f0(0x300))['on'](_0x5941f0(0x28b),function(){var _0x1d3927=_0x5941f0;_0x394a62('body')[_0x1d3927(0x2d2)](_0x1d3927(0x260)),_0x394a62(this)[_0x1d3927(0x317)](_0x1d3927(0x2d8))[_0x1d3927(0x2d2)](_0x1d3927(0x248));}),_0x394a62(_0x5941f0(0x2a2))['on'](_0x5941f0(0x1f8),function(){var _0x544a69=_0x5941f0;_0x394a62(_0x544a69(0x310))['removeClass']('hideScroll'),_0x394a62(this)[_0x544a69(0x2d7)](_0x544a69(0x248)),_0x394a62(_0x544a69(0x300))[_0x544a69(0x1c9)]();}),_0x394a62(_0x5941f0(0x2fb))['on'](_0x5941f0(0x246),function(){var _0x1e6bc2=_0x5941f0;_0x394a62(_0x1e6bc2(0x310))[_0x1e6bc2(0x2d7)](_0x1e6bc2(0x260)),_0x394a62(_0x1e6bc2(0x2a2))['removeClass'](_0x1e6bc2(0x248)),_0x394a62(_0x1e6bc2(0x300))[_0x1e6bc2(0x1c9)]();}),_0x394a62(_0x5941f0(0x318))['on'](_0x5941f0(0x246),function(){var _0x2b6dca=_0x5941f0;_0x394a62(_0x2b6dca(0x293))[_0x2b6dca(0x1f4)](),_0x394a62('.titleSearch\x20a')['removeClass']('active'),_0x394a62(this)[_0x2b6dca(0x2d2)](_0x2b6dca(0x248));var _0x3d1a29='#'+_0x394a62(this)[_0x2b6dca(0x1ae)](_0x2b6dca(0x221));_0x394a62(_0x3d1a29)[_0x2b6dca(0x321)]();}),_0x394a62(_0x5941f0(0x1a7))['on']('click',function(){var _0x185282=_0x5941f0;_0x394a62(this)[_0x185282(0x2c7)](_0x185282(0x248)),_0x394a62(this)[_0x185282(0x20e)]('li')[_0x185282(0x322)](_0x185282(0x1c3))[_0x185282(0x1d7)]();}),_0x394a62(window)[_0x5941f0(0x30b)](_0x5941f0(0x340),function(){var _0x1d8d4c=_0x5941f0;_0x394a62(_0x1d8d4c(0x2b1))['each'](function(){var _0x3a942b=_0x1d8d4c;id=_0x394a62(this)[_0x3a942b(0x1ae)]('id'),cekst=localStorage[_0x3a942b(0x2d4)](id),cekst==_0x3a942b(0x1f4)&&_0x394a62('#'+id)['remove']();}),_0x394a62(document)['on'](_0x1d8d4c(0x246),_0x1d8d4c(0x254),function(){var _0x236617=_0x1d8d4c;_0x394a62(this)[_0x236617(0x317)](_0x236617(0x2f9))['find'](_0x236617(0x1bd))[_0x236617(0x27b)](_0x236617(0x246));}),_0x394a62(document)['on'](_0x1d8d4c(0x246),_0x1d8d4c(0x2ec),function(){var _0x41c745=_0x1d8d4c;_0x394a62(this)[_0x41c745(0x317)](_0x41c745(0x2f9))[_0x41c745(0x322)](_0x41c745(0x31a))[_0x41c745(0x27b)]('click');}),setTimeout(function(){var _0x30a09e=_0x1d8d4c;_0x394a62(_0x30a09e(0x2b7))['removeClass'](_0x30a09e(0x248)),_0x394a62(_0x30a09e(0x1f9))[_0x30a09e(0x2d2)](_0x30a09e(0x248)),setInterval(function(){var _0x4eb653=_0x30a09e;_0x394a62('#livesales\x20>\x20.item_livesales:first')[_0x4eb653(0x2d7)](_0x4eb653(0x248)),setTimeout(function(){var _0x1a491e=_0x4eb653;_0x394a62(_0x1a491e(0x1f9))['next']()[_0x1a491e(0x2d2)](_0x1a491e(0x248))[_0x1a491e(0x1fb)]()[_0x1a491e(0x2c1)](_0x1a491e(0x28e));},0xfa0);},0x2710);},0x3e8),_0x394a62(_0x1d8d4c(0x2e9))['on']('click',function(){var _0xd3edbb=_0x1d8d4c;_0x394a62(this)[_0xd3edbb(0x317)](_0xd3edbb(0x2f9))['removeClass'](_0xd3edbb(0x248)),id=_0x394a62(this)[_0xd3edbb(0x317)]('.item_livesales')['attr']('id'),localStorage[_0xd3edbb(0x315)](id,_0xd3edbb(0x1f4)),setTimeout(function(){var _0x30c365=_0xd3edbb;_0x394a62('#'+id)[_0x30c365(0x27e)]();},0x1f4);});});var _0x1625fd=window[_0x5941f0(0x210)][_0x5941f0(0x2a7)];function _0x961872(_0x1eb597){var _0x4a7c5b=_0x5941f0,_0x1df17c='',_0x1895a6=_0x1eb597[_0x4a7c5b(0x1d6)]()[_0x4a7c5b(0x2a3)]('')[_0x4a7c5b(0x234)]()[_0x4a7c5b(0x32e)]('');for(var _0x4dcad6=0x0;_0x4dcad6<_0x1895a6[_0x4a7c5b(0x215)];_0x4dcad6++)if(_0x4dcad6%0x3==0x0)_0x1df17c+=_0x1895a6[_0x4a7c5b(0x2da)](_0x4dcad6,0x3)+'.';return'Rp.'+_0x1df17c['split']('',_0x1df17c[_0x4a7c5b(0x215)]-0x1)[_0x4a7c5b(0x234)]()[_0x4a7c5b(0x32e)]('');}function _0x10d78e(){var _0x5226d4=_0x5941f0,_0xe36a6='';_0x394a62('img[data-src]')[_0x5226d4(0x295)](function(){var _0x147fe1=_0x5226d4;_0x394a62(this)[_0x147fe1(0x1ae)](_0x147fe1(0x2b5),_0x147fe1(0x22b));var _0x1148ce=_0x394a62(this)[_0x147fe1(0x1ae)](_0x147fe1(0x2cd));_0x394a62(this)['attr']('src',_0x1148ce)[_0x147fe1(0x21c)]('<div\x20class=\x22lazy-img-wrap\x22\x20style=\x22background:'+_0xe36a6+_0x147fe1(0x1d0)),_0x394a62(this)[_0x147fe1(0x30b)](_0x147fe1(0x340),function(){var _0x2dce75=_0x147fe1;_0x394a62(this)[_0x2dce75(0x2d2)](_0x2dce75(0x24a))['animate']({'opacity':'1'},0x3e8)[_0x2dce75(0x31f)](_0x2dce75(0x2cd))[_0x2dce75(0x2bc)]();});}),_0x394a62(_0x5226d4(0x277))[_0x5226d4(0x295)](function(){var _0x44bf6f=_0x5226d4,_0x5a84ea=_0x394a62(this)[_0x44bf6f(0x1ae)](_0x44bf6f(0x25d));_0x394a62(this)[_0x44bf6f(0x1ae)](_0x44bf6f(0x2b5),_0x44bf6f(0x253))[_0x44bf6f(0x1bf)](_0x44bf6f(0x25e)+_0xe36a6+_0x44bf6f(0x2ca)+_0x5a84ea+_0x44bf6f(0x230)),_0x394a62(_0x44bf6f(0x29c),this)[_0x44bf6f(0x30b)](_0x44bf6f(0x340),function(){var _0x9e0466=_0x44bf6f;_0x394a62(this)[_0x9e0466(0x317)]('*[data-bg]')[_0x9e0466(0x1ae)](_0x9e0466(0x2b5),_0x9e0466(0x346)+_0x5a84ea+');position:relative;')[_0x9e0466(0x31f)](_0x9e0466(0x25d))['find'](_0x9e0466(0x326))[_0x9e0466(0x24d)](0x3e8,function(){var _0x13a214=_0x9e0466;_0x394a62(this)[_0x13a214(0x27e)]();});});});}_0x394a62('.item_product')[_0x5941f0(0x295)](function(){var _0x33a946=_0x5941f0,_0x12e36b=_0x394a62(_0x33a946(0x1cc),this)['attr'](_0x33a946(0x1df)),_0x4123ba=_0x394a62(_0x33a946(0x1cc),this)[_0x33a946(0x1ae)](_0x33a946(0x2af));if(_0x12e36b!=null&&_0x12e36b!=0x0){var _0x1ea0d4=_0x4123ba-_0x4123ba*_0x12e36b/0x64;_0x394a62(_0x33a946(0x1cc),this)[_0x33a946(0x1ae)]('data-price',_0x1ea0d4),_0x394a62(_0x33a946(0x1cc),this)[_0x33a946(0x28a)](_0x961872(_0x1ea0d4)),_0x394a62(_0x33a946(0x325),this)[_0x33a946(0x1bf)](_0x33a946(0x30c)+_0x961872(_0x4123ba)+_0x33a946(0x280)),_0x394a62(_0x33a946(0x23b),this)[_0x33a946(0x1c2)](_0x33a946(0x296)+_0x12e36b+_0x33a946(0x205));}else _0x394a62(_0x33a946(0x1cc),this)['text'](_0x961872(_0x4123ba));}),_0x394a62(document)[_0x5941f0(0x1eb)](function(){var _0x5086ec=_0x5941f0;_0x394a62(_0x5086ec(0x1e2))['each'](function(){var _0x28b597=_0x5086ec;_0x394a62(this)[_0x28b597(0x322)]('button:first')[_0x28b597(0x27b)](_0x28b597(0x246));});}),_0x394a62(_0x5941f0(0x31c))[_0x5941f0(0x295)](function(){var _0x5ccd87=_0x5941f0,_0x516a14=_0x394a62(this)['attr'](_0x5ccd87(0x2af)),_0x4e30a1=_0x394a62(this)['parents'](_0x5ccd87(0x1ef))['find'](_0x5ccd87(0x1cc))[_0x5ccd87(0x1ae)]('data-normal-price');(_0x516a14==0x0||_0x516a14==undefined)&&_0x394a62(this)[_0x5ccd87(0x1ae)](_0x5ccd87(0x2af),_0x4e30a1);}),_0x394a62(_0x5941f0(0x1ef))[_0x5941f0(0x295)](function(){var _0x1489ab=_0x5941f0;_0x394a62(_0x1489ab(0x1e0),this)['on'](_0x1489ab(0x246),function(){var _0x4c93b5=_0x1489ab,_0xabc4ab=_0x394a62(this)[_0x4c93b5(0x317)]('.item_product')[_0x4c93b5(0x322)]('.qty'),_0x161ee4=_0x394a62(this)[_0x4c93b5(0x317)]('.item_product')[_0x4c93b5(0x322)]('.qty')['val'](),_0x40e7cb=Number(_0x161ee4)-0x1;_0x40e7cb<=0x1?_0x394a62(_0xabc4ab)[_0x4c93b5(0x2a8)](0x1):_0x394a62(_0xabc4ab)['val'](_0x40e7cb);}),_0x394a62(_0x1489ab(0x2dc),this)['on']('click',function(){var _0x302de0=_0x1489ab,_0x2e68db=_0x394a62(this)['parents'](_0x302de0(0x1ef))['find'](_0x302de0(0x229)),_0x6915f3=_0x394a62(this)[_0x302de0(0x317)]('.item_product')[_0x302de0(0x322)](_0x302de0(0x229))['val'](),_0x526c47=Number(_0x6915f3)+0x1;_0x394a62(_0x2e68db)[_0x302de0(0x2a8)](_0x526c47);}),_0x394a62('.qty',this)['on']('change\x20blur',function(){var _0x57d611=_0x1489ab;value=_0x394a62(this)[_0x57d611(0x2a8)](),value<=0x1&&_0x394a62(this)[_0x57d611(0x2a8)](0x1);}),_0x394a62('.productOption\x20button',this)['on'](_0x1489ab(0x246),function(){var _0x75eb67=_0x1489ab,_0x5e8a59=_0x394a62(this)[_0x75eb67(0x28a)](),_0x389cdc=_0x394a62(this)[_0x75eb67(0x1ae)](_0x75eb67(0x2af));_0x394a62(this)[_0x75eb67(0x317)](_0x75eb67(0x2ff))[_0x75eb67(0x322)](_0x75eb67(0x2e2))['removeClass'](_0x75eb67(0x311)),_0x394a62(this)[_0x75eb67(0x2d2)](_0x75eb67(0x311));var _0x25967c=_0x394a62(this)['parents'](_0x75eb67(0x1ef))[_0x75eb67(0x1ae)]('id'),_0x1b71b0=_0x394a62(this)[_0x75eb67(0x317)]('.item_product')['find']('.title')[_0x75eb67(0x28a)]();if(_0x394a62(_0x75eb67(0x2be))['html']()==undefined)_0x394a62(this)['parents']('.item_product')[_0x75eb67(0x1ae)](_0x75eb67(0x29f),_0x25967c+'_'+_0x5e8a59),_0x394a62(this)[_0x75eb67(0x317)]('.item_product')[_0x75eb67(0x322)](_0x75eb67(0x1af))[_0x75eb67(0x1ae)]('data-title',_0x1b71b0+'\x20('+_0x5e8a59+')');else{var _0x247f2e=_0x394a62(_0x75eb67(0x2be))['find']('button.selected')[_0x75eb67(0x28a)]();_0x394a62(this)[_0x75eb67(0x317)](_0x75eb67(0x1ef))[_0x75eb67(0x1ae)](_0x75eb67(0x29f),_0x25967c+'_'+_0x5e8a59+'_'+_0x247f2e),_0x394a62(this)['parents']('.item_product')[_0x75eb67(0x322)](_0x75eb67(0x1af))[_0x75eb67(0x1ae)](_0x75eb67(0x1c7),_0x1b71b0+'\x20('+_0x5e8a59+',\x20'+_0x247f2e+')');}var _0x5a942f=_0x394a62(this)[_0x75eb67(0x317)](_0x75eb67(0x1ef))[_0x75eb67(0x322)](_0x75eb67(0x1cc))['attr'](_0x75eb67(0x1df));if(_0x389cdc!=null&&_0x389cdc!=0x0){if(_0x5a942f!=null&&_0x5a942f!=0x0){var _0x1c70e7=_0x389cdc-_0x389cdc*_0x5a942f/0x64;_0x394a62(this)[_0x75eb67(0x317)](_0x75eb67(0x1ef))['find'](_0x75eb67(0x1cc))['attr'](_0x75eb67(0x2af),_0x1c70e7),_0x394a62(this)[_0x75eb67(0x317)](_0x75eb67(0x1ef))[_0x75eb67(0x322)](_0x75eb67(0x1cc))[_0x75eb67(0x28a)](_0x961872(_0x1c70e7)),_0x394a62(this)['parents'](_0x75eb67(0x1ef))[_0x75eb67(0x322)](_0x75eb67(0x303))[_0x75eb67(0x28a)](_0x961872(_0x389cdc)),_0x394a62(this)[_0x75eb67(0x317)]('.item_product')[_0x75eb67(0x322)](_0x75eb67(0x1b9))[_0x75eb67(0x1ea)](_0x75eb67(0x1da)+_0x5a942f+'%</b>\x20OFF');}else _0x394a62(this)[_0x75eb67(0x317)]('.item_product')['find'](_0x75eb67(0x1cc))['attr'](_0x75eb67(0x2af),_0x389cdc),_0x394a62(this)[_0x75eb67(0x317)](_0x75eb67(0x1ef))[_0x75eb67(0x322)](_0x75eb67(0x1cc))['text'](_0x961872(_0x389cdc));}else _0x394a62(this)[_0x75eb67(0x317)](_0x75eb67(0x1ef))[_0x75eb67(0x322)]('.price')['attr'](_0x75eb67(0x2af),_0x389cdc),_0x394a62(this)[_0x75eb67(0x317)](_0x75eb67(0x1ef))['find']('.price')[_0x75eb67(0x28a)](_0x961872(_0x389cdc));}),_0x394a62(_0x1489ab(0x1b4),this)['on'](_0x1489ab(0x246),function(){var _0x1cc56b=_0x1489ab,_0x2cf7d2=_0x394a62(this)[_0x1cc56b(0x28a)]();_0x394a62(this)[_0x1cc56b(0x317)]('.productOption2')['find']('button')[_0x1cc56b(0x2d7)](_0x1cc56b(0x311)),_0x394a62(this)[_0x1cc56b(0x2d2)](_0x1cc56b(0x311));var _0x4acdbb=_0x394a62(this)[_0x1cc56b(0x317)](_0x1cc56b(0x1ef))['attr']('id'),_0x17be70=_0x394a62(this)[_0x1cc56b(0x317)](_0x1cc56b(0x1ef))['find']('.title')[_0x1cc56b(0x28a)]();if(_0x394a62(_0x1cc56b(0x2ff))['html']()==undefined)_0x394a62(this)[_0x1cc56b(0x317)]('.item_product')[_0x1cc56b(0x1ae)](_0x1cc56b(0x29f),_0x4acdbb+'_'+_0x2cf7d2),_0x394a62(this)[_0x1cc56b(0x317)](_0x1cc56b(0x1ef))[_0x1cc56b(0x322)]('.title')[_0x1cc56b(0x1ae)]('data-title',_0x17be70+'\x20('+_0x2cf7d2+')');else{var _0x9868eb=_0x394a62('.productOption')[_0x1cc56b(0x322)](_0x1cc56b(0x27d))[_0x1cc56b(0x28a)]();_0x394a62(this)['parents'](_0x1cc56b(0x1ef))[_0x1cc56b(0x1ae)](_0x1cc56b(0x29f),_0x4acdbb+'_'+_0x9868eb+'_'+_0x2cf7d2),_0x394a62(this)[_0x1cc56b(0x317)]('.item_product')[_0x1cc56b(0x322)](_0x1cc56b(0x1af))[_0x1cc56b(0x1ae)]('data-title',_0x17be70+'\x20('+_0x9868eb+',\x20'+_0x2cf7d2+')');}});});var _0x399950=[];function _0x25f3ee(_0x40270e){var _0x31d6fb=_0x5941f0,_0x176e8d='';id=_0x1625fd+_0x40270e,temp=localStorage[_0x31d6fb(0x2d4)](id),_0x176e8d='\x22'+id+'\x22'+':'+temp['replace'](/\"/g,'\x22'),_0x399950['push'](_0x176e8d);}function _0x339bda(){var _0x5f4aa8=_0x5941f0,_0x4cc8fe=[],_0x2b1cd5='',_0x500a6e='',_0x54b547=_0x574f37();for(var _0x39dc53 in _0x54b547){_0x4cc8fe['push'](_0x39dc53);}_0x4cc8fe[_0x5f4aa8(0x2e7)]();for(var _0x3f5066 in _0x4cc8fe){_0x500a6e=_0x4cc8fe[_0x3f5066],_0x2b1cd5='['+_0x500a6e+']['+_0x54b547[_0x500a6e]+']',_0x4d7f28(_0x2b1cd5),_0x25f3ee(_0x2b1cd5);}_0x394a62('div#JSON_Cart')[_0x5f4aa8(0x1ea)](JSON[_0x5f4aa8(0x2fd)](_0x399950));var _0x133ff8=0x0;_0x394a62(_0x5f4aa8(0x1c1))[_0x5f4aa8(0x295)](function(){var _0x4a4b2f=_0x5f4aa8,_0xf7062b=Number(_0x394a62(this)[_0x4a4b2f(0x1ae)]('data-amountprice'));_0x133ff8=_0x133ff8+_0xf7062b;}),_0x394a62(_0x5f4aa8(0x1fe))[_0x5f4aa8(0x1ea)](_0x961872(_0x133ff8[_0x5f4aa8(0x204)](0x0))),_0x394a62(_0x5f4aa8(0x1fe))['attr'](_0x5f4aa8(0x2f6),_0x133ff8[_0x5f4aa8(0x204)](0x0)),_0x394a62(_0x5f4aa8(0x2b8))[_0x5f4aa8(0x28a)](_0x961872(_0x133ff8[_0x5f4aa8(0x204)](0x0)));var _0x503ac4=0x0;_0x394a62(_0x5f4aa8(0x201))['each'](function(){var _0x430dcf=_0x5f4aa8,_0x172e13=Number(_0x394a62(this)[_0x430dcf(0x1ae)](_0x430dcf(0x1c8)));_0x503ac4=_0x503ac4+_0x172e13;}),_0x394a62(_0x5f4aa8(0x2b0))[_0x5f4aa8(0x2a8)](_0x503ac4['toFixed'](0x0)),_0x503ac4['toFixed'](0x0)!=0x0&&_0x394a62(_0x5f4aa8(0x227))[_0x5f4aa8(0x28a)](_0x5f4aa8(0x345)+_0x4daafc(_0x503ac4[_0x5f4aa8(0x204)](0x0))),_0x394a62(_0x5f4aa8(0x2e4))[_0x5f4aa8(0x322)](_0x5f4aa8(0x21e))['val'](_0x394a62(_0x5f4aa8(0x1e6))[_0x5f4aa8(0x28a)]()),_0x394a62(_0x5f4aa8(0x224))['each'](function(){var _0x28ca88=_0x5f4aa8;_0x394a62('.qtyMin',this)['on'](_0x28ca88(0x246),function(){var _0x45408c=_0x28ca88,_0x4e9f6b=_0x394a62(this)[_0x45408c(0x317)](_0x45408c(0x1de))[_0x45408c(0x322)]('.qty'),_0x38a5e4=_0x394a62(this)[_0x45408c(0x317)](_0x45408c(0x1de))[_0x45408c(0x322)](_0x45408c(0x229))[_0x45408c(0x2a8)](),_0x2db57f=Number(_0x38a5e4)-0x1;_0x2db57f<=0x1?_0x394a62(_0x4e9f6b)[_0x45408c(0x2a8)](0x1):_0x394a62(_0x4e9f6b)['val'](_0x2db57f);var _0x201549=_0x394a62(this)[_0x45408c(0x317)]('.listProduct')[_0x45408c(0x1ae)]('id'),_0x845ef5=_0x394a62(this)[_0x45408c(0x317)]('.listItem')['attr']('data-id');_0x4575e4(_0x201549,_0x845ef5);}),_0x394a62(_0x28ca88(0x2dc),this)['on'](_0x28ca88(0x246),function(){var _0xe844f9=_0x28ca88,_0x1cb597=_0x394a62(this)[_0xe844f9(0x317)](_0xe844f9(0x1de))[_0xe844f9(0x322)](_0xe844f9(0x229)),_0x3e9303=_0x394a62(this)[_0xe844f9(0x317)]('.listItem')[_0xe844f9(0x322)](_0xe844f9(0x229))['val'](),_0x49e6cd=Number(_0x3e9303)+0x1;_0x394a62(_0x1cb597)['val'](_0x49e6cd);var _0x1e2271=_0x394a62(this)['parents'](_0xe844f9(0x2ef))[_0xe844f9(0x1ae)]('id'),_0xc2f5ec=_0x394a62(this)[_0xe844f9(0x317)]('.listItem')[_0xe844f9(0x1ae)]('data-id');_0x4575e4(_0x1e2271,_0xc2f5ec);}),_0x394a62('.qty',this)['on'](_0x28ca88(0x200),function(){var _0x35062f=_0x28ca88;value=_0x394a62(this)[_0x35062f(0x2a8)]();value<=0x1&&_0x394a62(this)[_0x35062f(0x2a8)](0x1);var _0x483e63=_0x394a62(this)[_0x35062f(0x317)](_0x35062f(0x2ef))[_0x35062f(0x1ae)]('id'),_0x1cf1d8=_0x394a62(this)[_0x35062f(0x317)]('.listItem')[_0x35062f(0x1ae)](_0x35062f(0x29f));_0x4575e4(_0x483e63,_0x1cf1d8);}),_0x394a62(_0x28ca88(0x1f0),this)[_0x28ca88(0x1e1)](function(_0x3f3b48){var _0x574977=_0x28ca88;if(_0x3f3b48['which']==0xd){var _0x60c9c4=_0x394a62(this)[_0x574977(0x317)](_0x574977(0x2ef))[_0x574977(0x1ae)]('id'),_0x592f97=_0x394a62(this)[_0x574977(0x317)](_0x574977(0x1de))['attr'](_0x574977(0x29f));_0x4575e4(_0x60c9c4,_0x592f97);}}),_0x394a62(_0x28ca88(0x1f0),this)['on'](_0x28ca88(0x200),function(){var _0x3fffcf=_0x28ca88,_0x59ee02=_0x394a62(this)[_0x3fffcf(0x317)](_0x3fffcf(0x2ef))[_0x3fffcf(0x1ae)]('id'),_0x443969=_0x394a62(this)[_0x3fffcf(0x317)](_0x3fffcf(0x1de))[_0x3fffcf(0x1ae)](_0x3fffcf(0x29f));_0x4575e4(_0x59ee02,_0x443969);});});}_0x394a62(document)['on'](_0x5941f0(0x246),'.openCart,\x20.vieTokoWA',function(){var _0x478067=_0x5941f0;_0x394a62(_0x478067(0x274))['removeClass'](_0x478067(0x248)),_0x394a62('#cartPopup\x20#listCartPopup')[_0x478067(0x321)](),_0x394a62('#cartPopup\x20.cartForm')[_0x478067(0x1f4)]();}),_0x394a62(document)['on']('click',_0x5941f0(0x251),function(){var _0x5e01ab=_0x5941f0,_0x5a2e58=_0x394a62(this)[_0x5e01ab(0x317)](_0x5e01ab(0x2ef))[_0x5e01ab(0x1ae)]('id'),_0x4500ab=_0x394a62(this)['parents']('.item_product')[_0x5e01ab(0x1ae)](_0x5e01ab(0x29f));_0x4575e4(_0x5a2e58,_0x4500ab),_0x394a62(_0x5e01ab(0x274))['removeClass'](_0x5e01ab(0x248)),_0x394a62('#cartPopup\x20#listCartPopup')[_0x5e01ab(0x321)](),_0x394a62(_0x5e01ab(0x2d5))[_0x5e01ab(0x1f4)]();}),_0x394a62(document)['on']('click','.item_product\x20.orderBtn\x20a.orderCheckout',function(){var _0x15a404=_0x5941f0,_0x43cdc5=_0x394a62(this)[_0x15a404(0x317)](_0x15a404(0x2ef))[_0x15a404(0x1ae)]('id'),_0x50ee1f=_0x394a62(this)['parents'](_0x15a404(0x1ef))[_0x15a404(0x1ae)](_0x15a404(0x29f));_0x4575e4(_0x43cdc5,_0x50ee1f),_0x394a62(_0x15a404(0x274))[_0x15a404(0x2d2)](_0x15a404(0x248)),_0x394a62('#cartPopup\x20.cartForm')[_0x15a404(0x294)](),_0x394a62(_0x15a404(0x2f8))[_0x15a404(0x1f4)](),setTimeout(function(){var _0x1c7d59=_0x15a404;_0x394a62(_0x1c7d59(0x32d))[_0x1c7d59(0x28b)]();},0x64);});function _0x52b7ab(_0x9994ec){var _0x597af2=_0x5941f0,_0x369b8a=_0x597af2(0x256),_0x179e82=[],_0x1f962f=[],_0x5385da='',_0xca35c9='';for(i=0x0;i<localStorage[_0x597af2(0x215)];i++){cookies=localStorage[_0x597af2(0x1fa)](i),temp=cookies[_0x597af2(0x1bc)](0x0,_0x1625fd['length']);if(temp==_0x1625fd&&_0x369b8a==_0x597af2(0x256)){_0x5385da=cookies[_0x597af2(0x1bc)](_0x1625fd[_0x597af2(0x215)],_0x1625fd[_0x597af2(0x215)]+0x5),_0x1f962f=decodeURIComponent(cookies),_0x1f962f=_0x1f962f[_0x597af2(0x237)](temp,''),_0x1f962f=_0x1f962f[_0x597af2(0x237)](_0x5385da,''),_0x1f962f=_0x1f962f[_0x597af2(0x237)]('[',''),_0x1f962f=_0x1f962f[_0x597af2(0x237)](']','');if(_0x1f962f==_0x9994ec){_0x369b8a='true',_0xca35c9=cookies;break;}}}return _0x179e82=[_0x369b8a,_0xca35c9],_0x179e82;}function _0x4575e4(_0x225631,_0x51e165){var _0x499b3b=_0x5941f0;temp=_0x52b7ab(_0x51e165),temp[0x0]==_0x499b3b(0x31e)?id_temp=temp[0x1]:id_temp=_0x1625fd+'['+('00'+_0x16090b())[_0x499b3b(0x2b9)](-0x3)+']['+_0x51e165+']',img=_0x394a62('#'+_0x225631+'\x20[data-id=\x22'+_0x51e165+_0x499b3b(0x1be))['attr'](_0x499b3b(0x2df)),link=_0x394a62('#'+_0x225631+_0x499b3b(0x1e4)+_0x51e165+_0x499b3b(0x2fc))['attr']('href'),title=_0x394a62('#'+_0x225631+_0x499b3b(0x1e4)+_0x51e165+_0x499b3b(0x1b3))[_0x499b3b(0x1ae)](_0x499b3b(0x1c7)),price=Number(_0x394a62('#'+_0x225631+'\x20[data-id=\x22'+_0x51e165+_0x499b3b(0x33a))[_0x499b3b(0x1ae)](_0x499b3b(0x2af))),weight=Number(_0x394a62('#'+_0x225631+_0x499b3b(0x1e4)+_0x51e165+_0x499b3b(0x1e5))['attr'](_0x499b3b(0x1bb))),note=_0x394a62('#'+_0x225631+'\x20[data-id=\x22'+_0x51e165+_0x499b3b(0x22f))[_0x499b3b(0x2a8)](),qty=Number(_0x394a62('#'+_0x225631+'\x20[data-id=\x22'+_0x51e165+_0x499b3b(0x217))[_0x499b3b(0x2a8)]()),calcPrice=qty*price,amountprice=calcPrice['toFixed'](0x0),calcWeight=qty*weight,amountweight=calcWeight['toFixed'](0x0),dataStorage={'img':img,'link':link,'title':title,'price':price,'amountprice':amountprice,'weight':weight,'amountweight':amountweight,'note':note,'qty':qty},myJSON=JSON[_0x499b3b(0x2fd)](dataStorage),localStorage[_0x499b3b(0x315)](id_temp,myJSON),_0x394a62(_0x499b3b(0x32a))[_0x499b3b(0x1ea)](''),_0x394a62('select#acf-field_5dc42eeab3e5e')[_0x499b3b(0x1ea)](''),_0x339bda();}_0x394a62(_0x5941f0(0x33e))['on']('click',_0x5941f0(0x267),function(){var _0x377bc7=_0x5941f0;_0x394a62(this)[_0x377bc7(0x2c7)](_0x377bc7(0x248)),_0x394a62('#cartPopup\x20#listCartPopup')[_0x377bc7(0x1d7)](),_0x394a62(_0x377bc7(0x2d5))['slideToggle'](),_0x394a62('#cartPopup\x20.cartForm\x20.nama')['focus']();}),_0x394a62(document)[_0x5941f0(0x1eb)](function(){_0x339bda();});function _0x574f37(){var _0x32eaf0=_0x5941f0,_0x1a591b=[],_0x430daa=[],_0xe3dcb8='',_0x47c9e5='',_0x1fe468=0x0,_0x47905d=0x0;for(_0x1fe468=0x0;_0x1fe468<localStorage[_0x32eaf0(0x215)];_0x1fe468++){cookies=localStorage[_0x32eaf0(0x1fa)](_0x1fe468)[_0x32eaf0(0x237)](/^ /,''),temp=cookies[_0x32eaf0(0x1bc)](0x0,_0x1625fd[_0x32eaf0(0x215)]),temp==_0x1625fd&&(_0xe3dcb8=cookies[_0x32eaf0(0x1bc)](_0x1625fd[_0x32eaf0(0x215)],_0x1625fd[_0x32eaf0(0x215)]+0x5),_0x47c9e5=_0xe3dcb8['replace']('[',''),_0x47c9e5=_0x47c9e5[_0x32eaf0(0x237)](']',''),_0x430daa=decodeURIComponent(cookies),_0x430daa=_0x430daa[_0x32eaf0(0x237)](temp,''),_0x430daa=_0x430daa['replace'](_0xe3dcb8,''),_0x430daa=_0x430daa[_0x32eaf0(0x237)]('[',''),_0x430daa=_0x430daa[_0x32eaf0(0x237)](']',''),_0x1a591b[_0x47c9e5]=[_0x430daa],_0x47905d=_0x47905d+0x1);}return _0x47905d==0x0?(_0x394a62(_0x32eaf0(0x247))['show'](),_0x394a62(_0x32eaf0(0x259))[_0x32eaf0(0x1f4)](),_0x394a62(_0x32eaf0(0x344))[_0x32eaf0(0x1f4)](),_0x394a62(_0x32eaf0(0x344))['text']('')):(_0x394a62(_0x32eaf0(0x344))[_0x32eaf0(0x321)](),_0x394a62('.btnCart\x20.count')['text'](_0x47905d),_0x394a62(_0x32eaf0(0x247))[_0x32eaf0(0x1f4)](),_0x394a62(_0x32eaf0(0x259))[_0x32eaf0(0x321)]()),_0x1a591b;}function _0x16090b(){var _0x381952=_0x5941f0,_0x546d91=0x0,_0x26483e=[],_0x44b5ed=_0x574f37();for(var _0x436836 in _0x44b5ed){_0x26483e[_0x381952(0x29e)](parseInt(_0x436836));}return _0x26483e['length']==0x0?_0x546d91=0x1:_0x546d91=Math[_0x381952(0x1b7)][_0x381952(0x23d)](null,_0x26483e)+0x1,_0x546d91;}function _0x4d7f28(_0xd8066c){var _0x33bf6b=_0x5941f0;id=_0x1625fd+_0xd8066c,temp=localStorage['getItem'](id),values=JSON[_0x33bf6b(0x2cb)](temp);var _0x54a012=_0xd8066c[_0x33bf6b(0x237)](_0xd8066c[_0x33bf6b(0x1bc)](0x0,0x5),'');_0x54a012=_0x54a012['replace']('[',''),_0x54a012=_0x54a012[_0x33bf6b(0x237)](']','');var _0x2ed779=_0x54a012[_0x33bf6b(0x237)](_0x33bf6b(0x21d),'')[_0x33bf6b(0x2a3)]('_')[0x0];_0x394a62(_0x33bf6b(0x22e))['prepend'](_0x33bf6b(0x1f7)+_0x2ed779+_0x33bf6b(0x1e7)+values[_0x33bf6b(0x1b0)]+_0x33bf6b(0x26f)),_0x394a62(_0x33bf6b(0x2c8))[_0x33bf6b(0x1bf)]('\x20\x20\x20\x20\x20\x20\x20\x20<li\x20class=\x22listItem\x22\x20data-id=\x22'+_0x54a012+'\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22left\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22'+values[_0x33bf6b(0x26e)]+'\x22><img\x20class=\x22img\x22\x20src=\x22'+values[_0x33bf6b(0x2c4)]+'\x22/></a>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22center\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20class=\x22title\x22\x20data-title=\x22'+values[_0x33bf6b(0x1b0)]+_0x33bf6b(0x313)+values[_0x33bf6b(0x26e)]+'\x22>'+values[_0x33bf6b(0x1b0)]+_0x33bf6b(0x1a9)+values[_0x33bf6b(0x22a)]+'</small>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22right\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<b\x20class=\x22price\x22\x20data-price=\x22'+values[_0x33bf6b(0x1ed)]+'\x22>'+_0x961872(values[_0x33bf6b(0x1ed)])+_0x33bf6b(0x26c)+values['qty']+_0x33bf6b(0x26a)),_0x394a62(_0x33bf6b(0x2ae))[_0x33bf6b(0x1bf)](_0x33bf6b(0x2c5)+_0x54a012+'\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22left\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22'+values[_0x33bf6b(0x26e)]+_0x33bf6b(0x2bb)+values[_0x33bf6b(0x2c4)]+_0x33bf6b(0x1f3)+values[_0x33bf6b(0x1b0)]+'\x22><a\x20class=\x22link\x22\x20href=\x22'+values[_0x33bf6b(0x26e)]+'\x22>'+values['title']+_0x33bf6b(0x1ac)+values[_0x33bf6b(0x30a)]+'\x22\x20min=\x221\x22\x20placeholder=\x22Qty\x22/><button\x20class=\x22qtyPlus\x22>+</button>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<noscript\x20class=\x22price\x22\x20data-price=\x22'+values['price']+'\x22>'+_0x961872(values[_0x33bf6b(0x1ed)])+_0x33bf6b(0x238)+values['weight']+'\x22>'+values[_0x33bf6b(0x1e9)]+_0x33bf6b(0x301)+values[_0x33bf6b(0x22a)]+_0x33bf6b(0x272)+values['amountprice']+_0x33bf6b(0x305)+_0x961872(values[_0x33bf6b(0x1fc)])+'</b>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<small\x20class=\x22amountweight\x22\x20data-amountweight=\x22'+values[_0x33bf6b(0x23c)]+'\x22\x20title=\x22Berat\x20Produk\x22>'+_0x4daafc(values[_0x33bf6b(0x23c)])+'</small>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br/>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20class=\x22removeProductCart\x22\x20href=\x22javascript:void(0);\x22\x20title=\x22Hapus\x20produk?\x22><small>Hapus</small></a>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20</li>\x20\x20\x20\x20\x20\x20\x20\x20'),_0x394a62(_0x33bf6b(0x2c6))['prepend'](_0x33bf6b(0x258)+_0x54a012+_0x33bf6b(0x2b3)+values['title']+'*%0A'+values[_0x33bf6b(0x26e)]+_0x33bf6b(0x29b)+values[_0x33bf6b(0x30a)]+_0x33bf6b(0x312)+_0x961872(values['price'])+'\x20(\x20*'+_0x961872(values[_0x33bf6b(0x1fc)])+_0x33bf6b(0x239)+values['note']+_0x33bf6b(0x1a8));}_0x394a62(_0x5941f0(0x30e))[_0x5941f0(0x1ea)]()!=undefined&&(_0x394a62('#slide\x20.owl-carousel')['owlCarousel']({'loop':!![],'autoplay':!![],'autoHeight':![],'lazyLoad':!![],'autoplayTimeout':0xbb8,'autoplayHoverPause':!![],'margin':0x0,'nav':!![],'navText':[_0x5941f0(0x290),_0x5941f0(0x2ac)],'items':0x1,'dots':!![],'responsive':{0x301:{'mouseDrag':![],'touchDrag':![],'pullDrag':![]}}}),_0x394a62(window)[_0x5941f0(0x30b)](_0x5941f0(0x340),function(){var _0x4a5d45=_0x5941f0,_0x3cad67=_0x394a62(_0x4a5d45(0x1ce))[_0x4a5d45(0x322)](_0x4a5d45(0x287))[_0x4a5d45(0x30d)]()/0x2;_0x394a62(_0x4a5d45(0x23a))['attr'](_0x4a5d45(0x2b5),'height:'+_0x3cad67+_0x4a5d45(0x1b6));})),_0x394a62('.imgProducts')[_0x5941f0(0x1ea)]()!=undefined&&_0x394a62(_0x5941f0(0x1ad))[_0x5941f0(0x1e3)]({'loop':![],'autoHeight':![],'lazyLoad':!![],'margin':0x0,'nav':!![],'navText':[_0x5941f0(0x290),_0x5941f0(0x2ac)],'items':0x1,'dots':!![],'responsive':{0x301:{'mouseDrag':![],'touchDrag':![],'pullDrag':![],'smartSpeed':0x0}}}),_0x394a62(window)['bind'](_0x5941f0(0x340),function(){_0x10d78e();}),_0x394a62(document)[_0x5941f0(0x1eb)](function(){var _0x1a4863=_0x5941f0;_0x394a62('#slide-ulasan')['html']()!=undefined&&_0x394a62(_0x1a4863(0x1d9))[_0x1a4863(0x1e3)]({'loop':!![],'center':!![],'navText':[_0x1a4863(0x290),_0x1a4863(0x2ac)],'autoHeight':![],'responsive':{0x0:{'items':0x1,'stagePadding':0x3c,'margin':0xa,'nav':!![]},0x301:{'items':0x2,'nav':![]},0x42d:{'margin':0x14,'items':0x3}}});}),_0x394a62(document)['on'](_0x5941f0(0x246),'.removeProductCart',function(){var _0x4bb3b4=_0x5941f0;if(confirm(_0x4bb3b4(0x2d0))){var _0x296ee1=_0x394a62(this)[_0x4bb3b4(0x317)]('.listItem')['attr'](_0x4bb3b4(0x29f));temp=_0x52b7ab(_0x296ee1),temp[0x0]=='true'&&(id_temp=temp[0x1],localStorage[_0x4bb3b4(0x1cf)](id_temp),_0x394a62(_0x4bb3b4(0x32a))[_0x4bb3b4(0x1ea)](''),_0x394a62('select#acf-field_5dc42eeab3e5e')['html'](''),_0x339bda());}else return![];}),_0x394a62(_0x5941f0(0x2c2))[_0x5941f0(0x2ee)](_0x5941f0(0x246),function(){var _0x29db36=_0x5941f0;_0x394a62(_0x29db36(0x310))['addClass'](_0x29db36(0x260));var _0x31917a=_0x394a62(this)[_0x29db36(0x1ae)]('data-title'),_0x559aeb='#'+_0x394a62(this)[_0x29db36(0x1ae)](_0x29db36(0x221));_0x394a62(_0x559aeb)[_0x29db36(0x2d2)](_0x29db36(0x228)),_0x394a62(_0x559aeb)[_0x29db36(0x322)](_0x29db36(0x27a))[_0x29db36(0x1ea)](_0x31917a);if(_0x394a62(this)[_0x29db36(0x1ae)](_0x29db36(0x1d1))!=null){var _0x23ca73=_0x394a62(this)[_0x29db36(0x1ae)](_0x29db36(0x1d1));_0x394a62(_0x559aeb)[_0x29db36(0x322)](_0x29db36(0x1d2))[_0x29db36(0x27e)](),_0x394a62(_0x559aeb)['find'](_0x29db36(0x1d8))[_0x29db36(0x1bf)](_0x29db36(0x25c)+_0x23ca73+_0x29db36(0x28c));}}),_0x394a62('.poptamvBtn')['on'](_0x5941f0(0x246),function(){var _0x5ede64=_0x5941f0;_0x394a62(_0x5ede64(0x310))[_0x5ede64(0x2d2)](_0x5ede64(0x260));var _0x133e61=_0x394a62(this)[_0x5ede64(0x1ae)](_0x5ede64(0x1c7)),_0x46ba84='#'+_0x394a62(this)['attr'](_0x5ede64(0x221));_0x394a62(_0x46ba84)['addClass']('open'),_0x394a62(_0x46ba84)['find'](_0x5ede64(0x27a))[_0x5ede64(0x1ea)](_0x133e61);if(_0x394a62(this)[_0x5ede64(0x1ae)](_0x5ede64(0x314))!=null){var _0x20b1ae=_0x394a62(this)['attr']('data-width');_0x394a62(_0x46ba84)[_0x5ede64(0x322)](_0x5ede64(0x281))[_0x5ede64(0x1ae)](_0x5ede64(0x2b5),_0x5ede64(0x240)+_0x20b1ae+'px!important;');}_0x394a62(_0x46ba84)['find']('.poptamv-img')[_0x5ede64(0x27e)]();if(_0x394a62(this)[_0x5ede64(0x1ae)]('data-img')!=null){var _0x381889=_0x394a62(this)[_0x5ede64(0x1ae)]('data-img');_0x394a62(_0x46ba84)['find'](_0x5ede64(0x1d8))['prepend'](_0x5ede64(0x1d3)+_0x381889+'\x22\x20/>');}if(_0x394a62(this)[_0x5ede64(0x1ae)](_0x5ede64(0x27c))!=null){var _0x2d4af7=_0x394a62(this)[_0x5ede64(0x1ae)](_0x5ede64(0x27c));_0x394a62(_0x46ba84)[_0x5ede64(0x322)](_0x5ede64(0x252))[_0x5ede64(0x27e)](),_0x394a62(_0x46ba84)[_0x5ede64(0x322)](_0x5ede64(0x1d8))[_0x5ede64(0x1c2)](_0x5ede64(0x273)+_0x2d4af7+_0x5ede64(0x271));}if(_0x394a62(this)[_0x5ede64(0x1ae)](_0x5ede64(0x333))!=null){var _0x4a31f3=_0x394a62(this)[_0x5ede64(0x1ae)](_0x5ede64(0x333));_0x394a62(_0x46ba84)['find']('.poptamv-caption')[_0x5ede64(0x27e)](),_0x394a62(_0x46ba84)[_0x5ede64(0x322)]('.content')[_0x5ede64(0x1c2)](_0x5ede64(0x330)+_0x4a31f3+_0x5ede64(0x271));}}),_0x394a62('.poptamv\x20.closeTamv')['on'](_0x5941f0(0x246),function(){var _0x4398b2=_0x5941f0;_0x394a62(_0x4398b2(0x310))[_0x4398b2(0x2d7)](_0x4398b2(0x260)),_0x394a62(this)[_0x4398b2(0x317)](_0x4398b2(0x23e))[_0x4398b2(0x2d7)](_0x4398b2(0x228)),_0x394a62(this)[_0x4398b2(0x317)](_0x4398b2(0x23e))[_0x4398b2(0x322)](_0x4398b2(0x1d2))[_0x4398b2(0x295)](function(){var _0x50995f=_0x4398b2;this[_0x50995f(0x275)]['postMessage'](_0x50995f(0x1dd),'*');});}),_0x394a62(document)[_0x5941f0(0x276)](function(_0x4451e4){var _0x326f02=_0x5941f0;_0x4451e4[_0x326f02(0x1fa)]===_0x326f02(0x264)&&_0x394a62(_0x326f02(0x339))['trigger']('click');}),_0x394a62(document)['on'](_0x5941f0(0x246),'.popWin',function(){var _0x4b3e82=_0x5941f0,_0x2206ef=_0x394a62(this)[_0x4b3e82(0x1ae)](_0x4b3e82(0x2f5)),_0x2d2cba=_0x394a62(this)[_0x4b3e82(0x1ae)](_0x4b3e82(0x1e8)),_0x150756=_0x394a62(this)[_0x4b3e82(0x1ae)](_0x4b3e82(0x261));return _0x2d2cba==null&&(_0x2d2cba=0x3c0),_0x150756==null&&(_0x150756=0x21c),left=Number(screen['width']/0x2-_0x2d2cba/0x2),tops=Number(screen['height']/0x2-_0x150756/0x2),popupWindow=window['open'](_0x2206ef,'',_0x4b3e82(0x218)+_0x2d2cba+_0x4b3e82(0x2ed)+_0x150756+_0x4b3e82(0x26b)+tops+_0x4b3e82(0x2f0)+left),popupWindow[_0x4b3e82(0x28b)](),![];});}(jQuery),function(_0x25655d){var _0x1324f4=_0x33ad,_0x552da4=function(){var _0x171349=!![];return function(_0x445fd6,_0x3b8cc9){var _0x348ba6=_0x171349?function(){var _0x147eca=_0x33ad;if(_0x3b8cc9){var _0x2e034a=_0x3b8cc9[_0x147eca(0x23d)](_0x445fd6,arguments);return _0x3b8cc9=null,_0x2e034a;}}:function(){};return _0x171349=![],_0x348ba6;};}(),_0x3ebe46=_0x552da4(this,function(){var _0x59b6e4=function(){var _0x2cc06c=_0x33ad,_0x57d5c1=_0x59b6e4[_0x2cc06c(0x306)](_0x2cc06c(0x1ba))()[_0x2cc06c(0x306)](_0x2cc06c(0x2a1));return!_0x57d5c1[_0x2cc06c(0x341)](_0x3ebe46);};return _0x59b6e4();});_0x3ebe46();var _0x3be388=function(){var _0x1dc935=!![];return function(_0x5a5deb,_0x1b1fb7){var _0x1133d4=_0x1dc935?function(){var _0x180a50=_0x33ad;if(_0x1b1fb7){var _0x11f5d0=_0x1b1fb7[_0x180a50(0x23d)](_0x5a5deb,arguments);return _0x1b1fb7=null,_0x11f5d0;}}:function(){};return _0x1dc935=![],_0x1133d4;};}(),_0x4f39e7=_0x3be388(this,function(){var _0x502ded=_0x33ad,_0x1e24ce=function(){var _0x1dfa92;try{_0x1dfa92=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0xa06fdb){_0x1dfa92=window;}return _0x1dfa92;},_0x5ec50c=_0x1e24ce(),_0x5e131b=_0x5ec50c[_0x502ded(0x2a4)]=_0x5ec50c['console']||{},_0x1292c8=[_0x502ded(0x291),'warn',_0x502ded(0x2a0),_0x502ded(0x323),_0x502ded(0x2d1),'table','trace'];for(var _0x3cc43f=0x0;_0x3cc43f<_0x1292c8[_0x502ded(0x215)];_0x3cc43f++){var _0x15976e=_0x3be388['constructor']['prototype'][_0x502ded(0x30b)](_0x3be388),_0x178067=_0x1292c8[_0x3cc43f],_0x1701cf=_0x5e131b[_0x178067]||_0x15976e;_0x15976e[_0x502ded(0x2ce)]=_0x3be388['bind'](_0x3be388),_0x15976e[_0x502ded(0x1d6)]=_0x1701cf[_0x502ded(0x1d6)][_0x502ded(0x30b)](_0x1701cf),_0x5e131b[_0x178067]=_0x15976e;}});_0x4f39e7(),_0x25655d(_0x1324f4(0x33b))[_0x1324f4(0x295)](function(){var _0x154465=_0x1324f4;_0x25655d(this)[_0x154465(0x2a8)]('-')[_0x154465(0x27b)](_0x154465(0x223)),_0x25655d(this)['closest'](_0x154465(0x212))[_0x154465(0x1ae)](_0x154465(0x2b5),_0x154465(0x278)),_0x25655d(this)[_0x154465(0x2a6)]('.item')[_0x154465(0x1f4)]();}),_0x25655d(_0x1324f4(0x28f))[_0x1324f4(0x295)](function(){var _0x4c324a=_0x1324f4;_0x25655d(this)[_0x4c324a(0x2a8)](_0x4c324a(0x329)+window['location'][_0x4c324a(0x2a7)])[_0x4c324a(0x27b)](_0x4c324a(0x223)),_0x25655d(this)[_0x4c324a(0x2a6)](_0x4c324a(0x279))[_0x4c324a(0x1f4)]();});}(jQuery));var thx_message=_0x1392e0(0x335)+window[_0x1392e0(0x210)][_0x1392e0(0x2a7)]['toUpperCase']()+'\x22\x20\x20:]\x0a\x0aSudah\x20menjadi\x20Donatur\x20Kopi\x20https://KangRian.NET\x0a\x0a\x0a\x20\x20\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20██\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20██\x20\x20██\x20\x20\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20████████████████████\x20\x20\x20\x20\x0a\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██████\x0a\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██\x20\x20██\x0a\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██\x20\x20██\x0a\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██████\x0a\x20\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x0a\x20████████████████████████\x20\x20\x0a\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██\x20\x20\x0a\x20\x20\x20████████████████████\x20\x20\x20\x20\x0a\x20\x0a\x0a\x0a\x0a';!localStorage[_0x1392e0(0x2d4)]('kr')?window[_0x1392e0(0x285)]=function(){var _0x26e97f=_0x1392e0,_0x4a79bc=window[_0x26e97f(0x210)]['hostname'];$[_0x26e97f(0x286)](_0x26e97f(0x1a6)+_0x4a79bc,function(_0x3eac5d){var _0x38f1bc=_0x26e97f;if(_0x3eac5d[_0x38f1bc(0x24e)]==0xc8)localStorage[_0x38f1bc(0x315)]('kr',0x1),console[_0x38f1bc(0x291)](thx_message);else{var _0x40806a='\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:\x20fixed!important;z-index:999999!important;top:0!important;left:\x200!important;width:\x20100%!important;height:\x20100%!important;display:\x20flex!important;background:\x20rgba(0,0,0,.4)!important;\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20block!important;margin:\x20auto!important;width:\x20600px!important;max-width:90%!important;text-align:\x20center!important;background:\x20#fff!important;\x20padding:\x2040px!important;border-radius:\x208px!important;\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Lisensi\x20Template\x20untuk\x20website\x20\x22'+_0x4a79bc+_0x38f1bc(0x250);$(_0x40806a)[_0x38f1bc(0x2c1)](_0x38f1bc(0x310));}});}:console[_0x1392e0(0x291)](thx_message);
+(function($) {
+    
+    $('.titleCase').each(function() {
+       $(this).addClass('title_case');
+       $(this).removeClass('titleCase'); 
+    });
+    $(document).on('input','.title_case', function(e) {
+        e.stopPropagation();
+        var str = $(this).val();
+        str = str.toLowerCase().split(' ');
+        for (var i = 0; i < str.length; i++) {
+            str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);
+        }
+        str = str.join(' ');
+        $(this).val(str);
+    });
+    
+    if (tw_config.fbPixel_ID !== '') {
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', tw_config.fbPixel_ID);
+        fbq('track', 'PageView');
+        $('<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id='+tw_config.fbPixel_ID+'&amp;ev=PageView&amp;noscript=1"/></noscript>').appendTo('body');
+        $(window).bind('load',function(){
+            if($('#product').html() != undefined) {
+                var harga = $('#product').find('.item_product').find('.price').attr('data-price');
+                fbq('track', 'ViewContent', {
+                    value: harga,
+                    currency: "IDR"
+                });
+            }
+        });
+        $(document).on('click', '.item_product .orderBtn a', function() {
+            var harga = $(this).parents('.item_product').find('.price').attr('data-price');
+            var qty = $(this).parents('.item_product').find('.productQty input').val();
+            fbq('track', 'AddToCart', {
+                value: harga,
+                quantity : qty,
+                currency: "IDR"
+            });
+        });
+        $(document).one('click', '.cartCheckout a.btnCheckout', function() {
+            fbq('track', 'InitiateCheckout');
+        });
+        function fbqPurchase(subtotal){
+            fbq('track', 'Purchase', {
+                value: subtotal,
+                currency: 'IDR'
+            });
+        }
+    }
+    $(window).bind('load',function(){
+        // $(".notifComRat_item").sort(function(a,b){
+        // return new Date($(a).attr("data-time")) < new Date($(b).attr("data-time"));
+        // }).each(function(){
+        //     $(".notifComRat").prepend(this);
+        // });
+
+        $(function() {
+          $(".notifComRat li").sort(sort_li).prependTo('.notifComRat');
+          function sort_li(a, b) {
+            return ($(b).data('time')) > ($(a).data('time')) ? 1 : -1;
+          }
+        });
+    });
+    $(document).ready(function(){
+      var loadMore_count = 6;
+      $(".notifComRat li").slice(0,loadMore_count).show();
+      $(".notifComRat .more").click(function(e){
+        e.preventDefault();
+        $(".notifComRat li:hidden").slice(0,loadMore_count).fadeIn("slow");
+        if($(".notifComRat li:hidden").length == 0){
+           $(".notifComRat .more").fadeOut("slow");
+          }
+      });
+    });
+    $("li.cat-item").each(function() {
+        var html = $(this).html();
+        html = html.replace("(", "<small>");
+        html = html.replace(")", "</small>");
+        $(this).html(html);
+        $('small', this).prependTo($(this));
+    });
+    $("ul.children li").each(function() {
+        var html = $(this).html();
+        html = html.replace("(", "<small>");
+        html = html.replace(")", "</small>");
+        $(this).html(html);
+        $('small', this).prependTo($(this));
+    });
+    // Sticky Sidebar
+    var mql = window.matchMedia('screen and (min-width: 769px)');
+    if (mql.matches) {
+        ! function(i) {
+            i.fn.theiaStickySidebar = function(t) {
+                function o(t, o) {
+                    var a = e(t, o);
+                    a || (console.log("TST: Body width smaller than options.minWidth. Init is delayed."), i(document).scroll(function(t, o) {
+                        return function(a) {
+                            var n = e(t, o);
+                            n && i(this).unbind(a)
+                        }
+                    }(t, o)), i(window).resize(function(t, o) {
+                        return function(a) {
+                            var n = e(t, o);
+                            n && i(this).unbind(a)
+                        }
+                    }(t, o)))
+                }
+
+                function e(t, o) { return t.initialized === !0 ? !0 : i("body").width() < t.minWidth ? !1 : (a(t, o), !0) }
+
+                function a(t, o) {
+                    t.initialized = !0, i("head").append(i('<style>.theiaStickySidebar:after {content: ""; display: table; clear: both;}</style>')), o.each(function() {
+                        function o() { a.fixedScrollTop = 0, a.sidebar.css({ "min-height": "1px" }), a.stickySidebar.css({ position: "static", width: "" }) }
+
+                        function e(t) { var o = t.height(); return t.children().each(function() { o = Math.max(o, i(this).height()) }), o }
+                        var a = {};
+                        a.sidebar = i(this), a.options = t || {}, a.container = i(a.options.containerSelector), 0 == a.container.size() && (a.container = a.sidebar.parent()), a.sidebar.css({ position: "relative", overflow: "visible", "-webkit-box-sizing": "border-box", "-moz-box-sizing": "border-box", "box-sizing": "border-box" }), a.stickySidebar = a.sidebar.find(".theiaStickySidebar"), 0 == a.stickySidebar.length && (a.sidebar.find("script").remove(), a.stickySidebar = i("<div>").addClass("theiaStickySidebar").append(a.sidebar.children()), a.sidebar.append(a.stickySidebar)), a.marginTop = parseInt(a.sidebar.css("margin-top")), a.marginBottom = parseInt(a.sidebar.css("margin-bottom")), a.paddingTop = parseInt(a.sidebar.css("padding-top")), a.paddingBottom = parseInt(a.sidebar.css("padding-bottom"));
+                        var n = a.stickySidebar.offset().top,
+                            d = a.stickySidebar.outerHeight();
+                        a.stickySidebar.css("padding-top", 1), a.stickySidebar.css("padding-bottom", 1), n -= a.stickySidebar.offset().top, d = a.stickySidebar.outerHeight() - d - n, 0 == n ? (a.stickySidebar.css("padding-top", 0), a.stickySidebarPaddingTop = 0) : a.stickySidebarPaddingTop = 1, 0 == d ? (a.stickySidebar.css("padding-bottom", 0), a.stickySidebarPaddingBottom = 0) : a.stickySidebarPaddingBottom = 1, a.previousScrollTop = null, a.fixedScrollTop = 0, o(), a.onScroll = function(a) {
+                            if (a.stickySidebar.is(":visible")) {
+                                if (i("body").width() < a.options.minWidth) return void o();
+                                if (a.sidebar.outerWidth(!0) + 50 > a.container.width()) return void o();
+                                var n = i(document).scrollTop(),
+                                    d = "static";
+                                if (n >= a.container.offset().top + (a.paddingTop + a.marginTop - a.options.additionalMarginTop)) {
+                                    var r, s = a.paddingTop + a.marginTop + t.additionalMarginTop,
+                                        c = a.paddingBottom + a.marginBottom + t.additionalMarginBottom,
+                                        p = a.container.offset().top,
+                                        b = a.container.offset().top + e(a.container),
+                                        g = 0 + t.additionalMarginTop,
+                                        l = a.stickySidebar.outerHeight() + s + c < i(window).height();
+                                    r = l ? g + a.stickySidebar.outerHeight() : i(window).height() - a.marginBottom - a.paddingBottom - t.additionalMarginBottom;
+                                    var h = p - n + a.paddingTop + a.marginTop,
+                                        f = b - n - a.paddingBottom - a.marginBottom,
+                                        S = a.stickySidebar.offset().top - n,
+                                        u = a.previousScrollTop - n;
+                                    "fixed" == a.stickySidebar.css("position") && "modern" == a.options.sidebarBehavior && (S += u), "legacy" == a.options.sidebarBehavior && (S = r - a.stickySidebar.outerHeight(), S = Math.max(S, r - a.stickySidebar.outerHeight())), S = u > 0 ? Math.min(S, g) : Math.max(S, r - a.stickySidebar.outerHeight()), S = Math.max(S, h), S = Math.min(S, f - a.stickySidebar.outerHeight());
+                                    var m = a.container.height() == a.stickySidebar.outerHeight();
+                                    d = (m || S != g) && (m || S != r - a.stickySidebar.outerHeight()) ? n + S - a.sidebar.offset().top - a.paddingTop <= t.additionalMarginTop ? "static" : "absolute" : "fixed"
+                                }
+                                if ("fixed" == d) a.stickySidebar.css({ position: "fixed", width: a.sidebar.width(), top: S, left: a.sidebar.offset().left + parseInt(a.sidebar.css("padding-left")) });
+                                else if ("absolute" == d) { var y = {}; "absolute" != a.stickySidebar.css("position") && (y.position = "absolute", y.top = n + S - a.sidebar.offset().top - a.stickySidebarPaddingTop - a.stickySidebarPaddingBottom), y.width = a.sidebar.width(), y.left = "", a.stickySidebar.css(y) } else "static" == d && o();
+                                "static" != d && 1 == a.options.updateSidebarHeight && a.sidebar.css({ "min-height": a.stickySidebar.outerHeight() + a.stickySidebar.offset().top - a.sidebar.offset().top + a.paddingBottom }), a.previousScrollTop = n
+                            }
+                        }, a.onScroll(a), i(document).scroll(function(i) { return function() { i.onScroll(i) } }(a)), i(window).resize(function(i) { return function() { i.stickySidebar.css({ position: "static" }), i.onScroll(i) } }(a))
+                    })
+                }
+                var n = { containerSelector: "", additionalMarginTop: 0, additionalMarginBottom: 0, updateSidebarHeight: !0, minWidth: 0, sidebarBehavior: "modern" };
+                t = i.extend(n, t), t.additionalMarginTop = parseInt(t.additionalMarginTop) || 0, t.additionalMarginBottom = parseInt(t.additionalMarginBottom) || 0, o(t, this)
+            }
+        }(jQuery);
+        $(document).ready(function() {
+            var tss = $('#sidebar');
+            if (tss != null) {
+                tss.theiaStickySidebar({
+                    additionalMarginTop: $('#header').height() + 20,
+                    additionalMarginBottom: 20
+                });
+            }
+            var tss = $('.productRecommend');
+            if (tss != null) {
+                tss.theiaStickySidebar({
+                    additionalMarginTop: $('#header').height() + 20,
+                    additionalMarginBottom: 80
+                });
+            }
+            var tss = $('.archiveWrap > nav');
+            if (tss != null) {
+                tss.theiaStickySidebar({
+                    additionalMarginTop: $('#header').height() + 20,
+                    additionalMarginBottom: 80
+                });
+            }
+        });
+    }
+    // # Sticky Sidebar
+    $('a').each(function() {
+        var url = $(this).attr('href');
+        if (url == window.location) {
+            $(this).addClass('current');
+        }
+    });
+    $(document).on('click', '.pageTitle .toggleBtn', function() {
+        $(this).toggleClass('toggle');
+        $('.archiveWrap').toggleClass('toggle');
+    });
+    $('.footerGrid .widget_media_gallery').append('<ul class="payShipIcon"></ul>');
+    $('.footerGrid .widget_media_gallery figure').each(function() {
+        var url = $('img', this).attr('data-src');
+        $('img', this).parents('.widget_media_gallery').find('.payShipIcon').append('<li style="background-image:url(' + url + ');"></li>');
+    });
+    $('.footerGrid .widget_media_gallery .gallery').remove();
+
+    function kilo(gram) {
+        var kilogram = '';
+        if (gram == 0) {} else {
+            var kilogram = (gram / 1000 + " Kg");
+        }
+        return kilogram;
+    }
+
+    function replaceText(before, after) {
+        return document.body.innerHTML = document.body.innerHTML.replace(before, after);
+    }
+
+    function titleCase(str) {
+        var capitalText = str.split(" ");
+        for (var i = 0; i < capitalText.length; i++) {
+            var j = capitalText[i].charAt(0).toUpperCase();
+            capitalText[i] = j + capitalText[i].substr(1);
+        }
+        return capitalText.join(" ");
+    }
+
+    replaceText('seconds', 'detik');
+
+    $(document).ready(function() {
+        var headerHeight = $('#header').height();
+        $('body').attr('style', 'padding-top:' + headerHeight + 'px');
+        var currentPageYOffset = 0;
+        window.addEventListener("scroll", function() {
+            var Y = this.pageYOffset;
+            if (document.body.scrollTop > headerHeight || document.documentElement.scrollTop > headerHeight) {
+                if (currentPageYOffset < Y) {
+                    // $('#header').attr('style','top:-'+headerHeight+'px');
+                } else if (currentPageYOffset > Y) {
+                    // $('#header').attr('style','top:0px');
+                }
+                currentPageYOffset = Y;
+            }
+        }, false);
+        $(document.body).append('<div id="page-loader"></div>');
+    });
+    $(window).on("beforeunload", function() {
+        $('.poptamv').removeClass('open');
+        $.magnificPopup.close()
+        $('#header .grid .item.search').removeClass('active');
+        $('#page-loader').fadeIn(500).delay(1000).fadeOut(1000);
+    });
+
+    $(document).ready(function() {
+        if (window.location.hash) {
+            var getHash = window.location.hash;
+            $(window).bind('load', function() {
+                $('html, body').animate({ scrollTop: $(getHash).offset().top - $('#header').height() - 20 }, 1000);
+                $(getHash).addClass('focusHash');
+                setTimeout(function() {
+                    $(getHash).removeClass('focusHash');
+                }, 1400);
+            });
+        }
+    });
+
+    $('body').on('click', 'a', function(e) {
+        if ($(this).attr('data-scroll') == 'true') {
+            e.preventDefault();
+            var getHash = this.hash;
+            $('html, body').animate({ scrollTop: $(getHash).offset().top - $('#header').height() - 10 }, 1000);
+            $(getHash).addClass('focusHash');
+            setTimeout(function() {
+                $(getHash).removeClass('focusHash');
+            }, 2000);
+        }
+    });
+
+    $('#checkoutWA label .nama').on('keyup', function() {
+        $('form#formOrder .acf-field[data-name="_post_title"] .acf-input').find('input').val(titleCase($(this).val()));
+    });
+    $('#checkoutWA label .email').on('keyup', function() {
+        $('form#formOrder .acf-field[data-name="email_sales"] .acf-input').find('input').val($(this).val());
+    });
+
+    $(window).bind('load', function() {
+        var negara_pengirim = $('#checkoutWA label .negara_pengirim').val();
+        $('form#formOrder .acf-field[data-name="negara_sales"] .acf-input').find('input').val(negara_pengirim);
+        $('#checkoutWA label .negara_pengirim').on('change', function() {
+            $('form#formOrder .acf-field[data-name="negara_sales"] .acf-input').find('input').val($(this).val());
+        });
+    });
+    $('#checkoutWA label .no_wa_pengirim').on('keyup', function() {
+        $('form#formOrder .acf-field[data-name="no_wa_sales"] .acf-input').find('input').val($(this).val());
+    });
+    $('#checkoutWA label .grup-alamat').on('keyup', function() {
+        var alamat = $('#checkoutWA label .alamat').val();
+        var kota = $('#checkoutWA label .kota').val();
+        var kecamatan = $('#checkoutWA label .kecamatan').val();
+        $('form#formOrder .acf-field[data-name="alamat_sales"] .acf-input').find('input').val(titleCase(alamat));
+        $('form#formOrder .acf-field[data-name="kota_sales"] .acf-input').find('input').val(titleCase(kota));
+        $('form#formOrder .acf-field[data-name="kecamatan_sales"] .acf-input').find('input').val(titleCase(kecamatan));
+    });
+
+    $(window).bind('load', function() {
+
+        $('.imgArea, .gallery, .postContent').each(function() { // the containers for all your galleries
+            $(this).magnificPopup({
+                delegate: 'a:has(img)', // the selector for gallery item
+                type: 'image',
+                preload: [1, 2],
+                gallery: {
+                    enabled: true
+                },
+                callbacks: {
+                    beforeOpen: function() {
+                        // just a hack that adds mfp-anim class to markup 
+                        this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
+                        this.st.mainClass = this.st.el.attr('data-effect');
+                    }
+                },
+                closeOnContentClick: true,
+                midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+            });
+        });
+
+        var productID = $('#product').attr('data-product-id');
+        var productTitle = $('#product').attr('data-product-title');
+        $('form#ulasanProduk .acf-field[data-name="produk_ulasan"] .acf-input').find('select').html('<option value="' + productID + '">' + productTitle + '</option>")');
+        $('form#ulasanProduk .acf-field[data-name="_post_title"] .acf-input').find('input').val(productTitle);
+        $('form#ulasanProduk .acf-field[data-name="nama_ulasan"] .acf-input input').on('keyup', function() {
+            var nama_ulasan = $(this).val();
+            $(this).val(titleCase(nama_ulasan));
+            $('form#ulasanProduk .acf-field[data-name="_post_title"] .acf-input').find('input').val(nama_ulasan + ' : ' + productTitle);
+        });
+        $('.acf-input input').each(function() {
+            $(this).attr('autocomplete', 'off');
+        });
+
+        $('form#ulasanProduk .acf-field[data-name="rating_ulasan"] .acf-input ul li label').each(function() {
+            var kelas = $(this).attr('class');
+            if (kelas === 'selected') {
+                $(this).parents('li').addClass('selected');
+            }
+        });
+        $(document).on('click', 'form#ulasanProduk .acf-field[data-name="rating_ulasan"] .acf-input ul li label', function() {
+            $(this).parents('li').addClass('selected');
+        });
+    });
+
+    $('#header .grid .item.btnSearch a, .fixBtn a.searchBtn').on('click', function() {
+        $('#header .grid .item.search').addClass('active');
+        setTimeout(function() {
+            $('#header .grid .item.search form input').focus();
+        }, 200);
+    });
+
+    $('#header .grid .item.search form input').on('focus', function() {
+        $('body').addClass('hideScroll');
+        $(this).parents('.item.search').addClass('active');
+    });
+
+    $('#header .grid .item.search').on('mouseleave', function() {
+        $('body').removeClass('hideScroll');
+        $(this).removeClass('active');
+        $('#header .grid .item.search form input').blur();
+    });
+
+    $('#header .grid .item.search form span').on('click', function() {
+        $('body').removeClass('hideScroll');
+        $('#header .grid .item.search').removeClass('active');
+        $('#header .grid .item.search form input').blur();
+    });
+
+    $('.titleSearch a').on('click', function() {
+        $('.itemTab').hide();
+        $('.titleSearch a').removeClass('active');
+        $(this).addClass('active');
+        var target = '#' + $(this).attr('data-target');
+        $(target).show();
+    });
+
+    $('#header .grid .item.search .inSearch .itemTab ul li.menu-item-has-children > i').on('click', function() {
+        $(this).toggleClass('active');
+        $(this).parent('li').find('ul:first').slideToggle();
+    });
+
+    $(window).bind('load', function() {
+        $('#livesales .item_livesales').each(function() {
+            id = $(this).attr('id');
+            cekst = localStorage.getItem(id);
+            if (cekst == 'hide') {
+                $('#' + id).remove();
+            }
+        });
+        $(document).on('click','#livesales .item_livesales .img',function(){
+            $(this).parents('.item_livesales').find('a.cekSales').trigger('click');
+        });
+        $(document).on('click','#livesales .item_livesales a.cekSales',function(){
+            $(this).parents('.item_livesales').find('.closelivesales').trigger('click');
+        });
+        // Retrieve
+        setTimeout(function() {
+            $("#livesales > .item_livesales:gt(0)").removeClass('active');
+            $("#livesales > .item_livesales:first").addClass('active');
+            setInterval(function() {
+                $('#livesales > .item_livesales:first').removeClass('active');
+                setTimeout(function() {
+                    $('#livesales > .item_livesales:first')
+                        .next()
+                        .addClass('active')
+                        .end()
+                        .appendTo('#livesales');
+                }, 4000); // delay next
+            }, 10000); // delay show
+        }, 1000); // delay first
+        $('#livesales .item_livesales .closelivesales').on('click', function() {
+            $(this).parents('.item_livesales').removeClass('active');
+            id = $(this).parents('.item_livesales').attr('id');
+            localStorage.setItem(id, 'hide');
+            setTimeout(function() {
+                $('#' + id).remove();
+            }, 500);
+        });
+    });
+
+    var store_id = window.location.hostname;
+
+    function angkaToRp(angka) {
+        var rupiah = '';
+        var angkarev = angka.toString().split('').reverse().join('');
+        for (var i = 0; i < angkarev.length; i++)
+            if (i % 3 == 0) rupiah += angkarev.substr(i, 3) + '.';
+        return 'Rp.' + rupiah.split('', rupiah.length - 1).reverse().join('');
+    }
+    /* alert(angkaToRp(10000000)); -> Rp. 10.000.000 */
+
+    function lazyload() {
+        var loadingBG = '';
+        $('img[data-src]').each(function() {
+            $(this).attr('style', 'display: block;max-width:100%;opacity: 0;');
+            var data_img = $(this).attr('data-src');
+            $(this)
+                .attr('src', data_img)
+                .wrap('<div class="lazy-img-wrap" style="background:' + loadingBG + '"></div>');
+            $(this).bind('load', function() {
+                $(this).addClass('loaded').animate({
+                        opacity: "1"
+                    }, 1000)
+                    .removeAttr('data-src')
+                    .unwrap();
+            });
+        });
+
+        $('*[data-bg]').each(function() {
+            var data_bg = $(this).attr('data-bg');
+            $(this)
+                .attr('style', 'position:relative;')
+                .prepend('<div class="lazy-bg-placeholder" style="position:absolute;z-index:auto;top:0;left:0;right:0;bottom:0;background:' + loadingBG + '"><img src="' + data_bg + '" style="display:none;"/></div>');
+            $('.lazy-bg-placeholder img', this).bind('load', function() {
+                $(this)
+                    .parents('*[data-bg]')
+                    .attr('style', 'background-image:url(' + data_bg + ');position:relative;')
+                    .removeAttr('data-bg')
+                    .find('.lazy-bg-placeholder').fadeOut(1000, function() {
+                        $(this).remove();
+                    });
+            });
+        });
+    }
+    $('.item_product').each(function() {
+        var discount = $('.price', this).attr('data-discount');
+        var price = $('.price', this).attr('data-price');
+
+        if (discount != null && discount != 0) {
+            var discount_price = price - price * discount / 100;
+            $('.price', this).attr('data-price', discount_price);
+            $('.price', this).text(angkaToRp(discount_price));
+            $('.priceArea', this).prepend('<span class="normalPrice">' + angkaToRp(price) + '</span>');
+            $('.thumbProduct', this).append('<span class="discount"><b>-' + discount + '%</b> OFF</span>');
+        } else {
+            $('.price', this).text(angkaToRp(price));
+        }
+    });
+
+    $(document).ready(function() {
+        $('.productOption, .productOption2').each(function() {
+            $(this).find('button:first').trigger('click');
+        });
+    });
+
+    $('.productOption button').each(function() {
+        var optionPrice = $(this).attr('data-price');
+        var price = $(this).parents('.item_product').find('.price').attr('data-normal-price');
+        if (optionPrice == 0 || optionPrice == undefined) {
+            $(this).attr('data-price', price);
+        }
+    });
+
+    $('.item_product').each(function() {
+        $('.qtyMin', this).on('click', function() {
+            var el = $(this).parents('.item_product').find('.qty');
+            var value = $(this).parents('.item_product').find('.qty').val();
+            var qty = Number(value) - 1;
+            if (qty <= 1) {
+                $(el).val(1);
+            } else {
+                $(el).val(qty);
+            }
+        });
+        $('.qtyPlus', this).on('click', function() {
+            var el = $(this).parents('.item_product').find('.qty');
+            var value = $(this).parents('.item_product').find('.qty').val();
+            var qty = Number(value) + 1;
+            $(el).val(qty);
+        });
+        $('.qty', this).on('change blur', function() {
+            value = $(this).val();
+            if (value <= 1) {
+                $(this).val(1);
+            }
+        });
+        $('.productOption button', this).on('click', function() {
+            var text = $(this).text();
+            var price = $(this).attr('data-price');
+            $(this).parents('.productOption').find('button').removeClass('selected');
+            $(this).addClass('selected');
+
+            var id = $(this).parents('.item_product').attr('id');
+            var title = $(this).parents('.item_product').find('.title').text();
+
+            if($('.productOption2').html() == undefined) {
+
+                $(this).parents('.item_product').attr('data-id', id + '_' + text);
+                $(this).parents('.item_product').find('.title').attr('data-title', title + ' (' + text + ')');
+                
+            } else {
+                var productOption2_val = $('.productOption2').find('button.selected').text();
+                $(this).parents('.item_product').attr('data-id', id + '_' + text + '_' + productOption2_val);
+                $(this).parents('.item_product').find('.title').attr('data-title', title + ' (' + text + ', '+productOption2_val+')');
+            }
+
+            var discount = $(this).parents('.item_product').find('.price').attr('data-discount');
+
+            if (price != null && price != 0) {
+
+                if (discount != null && discount != 0) {
+                    var discount_price = price - price * discount / 100;
+
+                    $(this).parents('.item_product').find('.price').attr('data-price', discount_price);
+                    $(this).parents('.item_product').find('.price').text(angkaToRp(discount_price));
+                    $(this).parents('.item_product').find('.priceArea .normalPrice').text(angkaToRp(price));
+                    $(this).parents('.item_product').find('.priceArea .discount').html('<b>' + discount + '%</b> OFF');
+                } else {
+                    $(this).parents('.item_product').find('.price').attr('data-price', price);
+                    $(this).parents('.item_product').find('.price').text(angkaToRp(price));
+                }
+            } else {
+                $(this).parents('.item_product').find('.price').attr('data-price', price);
+                $(this).parents('.item_product').find('.price').text(angkaToRp(price));
+            }
+        });
+        $('.productOption2 button', this).on('click', function() {
+            var text = $(this).text();
+            $(this).parents('.productOption2').find('button').removeClass('selected');
+            $(this).addClass('selected');
+
+            var id = $(this).parents('.item_product').attr('id');
+            var title = $(this).parents('.item_product').find('.title').text();
+
+            if($('.productOption').html() == undefined) {
+                $(this).parents('.item_product').attr('data-id', id + '_' + text);
+                $(this).parents('.item_product').find('.title').attr('data-title', title + ' (' + text + ')');
+            } else {
+                var productOption_val = $('.productOption').find('button.selected').text();
+                $(this).parents('.item_product').attr('data-id', id + '_' + productOption_val + '_' + text);
+                $(this).parents('.item_product').find('.title').attr('data-title', title + ' (' + productOption_val + ', '+text+')');
+            }
+
+        });
+    });
+    // load  
+    var JSON_cart = [];
+    function TokoWA_insertJSON(id_temp){
+        var data = '';
+        id = store_id + id_temp;
+        temp = localStorage.getItem(id);
+        data = '"' + id + '"' + ':' + temp.replace(/\"/g, '"');
+        JSON_cart.push(data);
+    }   
+    function TokoWA_loadLocalStorage() {
+        var arr_temp = [];
+        var id_storage = '';
+        var x = '';
+        var array = TokoWA_getKeyLocalStorage();
+        for (var i in array) {
+            arr_temp.push(i);        
+        }
+        arr_temp.sort();
+        for (var key in arr_temp) {
+            x = arr_temp[key];
+            id_storage = '[' + x + '][' + array[x] + ']';
+            TokoWA_getValueLocalStorage(id_storage);
+            TokoWA_insertJSON(id_storage);
+        }
+        $('div#JSON_Cart').html(JSON.stringify(JSON_cart));
+        var totalprice = 0;
+        $('#cartPopup .amountprice').each(function() {
+            var amountprice = Number($(this).attr('data-amountprice'));
+            totalprice = totalprice + amountprice;
+        });
+        $("#cartPopup #cartTotal .subtotal h2").html(angkaToRp(totalprice.toFixed(0)));
+        $("#cartPopup #cartTotal .subtotal h2").attr('data-subtotal',totalprice.toFixed(0));
+        $("#cartPopup #textCheckout .subtotal b").text(angkaToRp(totalprice.toFixed(0)));
+
+        var totalweight = 0;
+        $('#cartPopup .amountweight').each(function() {
+            var amountweight = Number($(this).attr('data-amountweight'));
+            totalweight = totalweight + amountweight;
+        });
+        $('form#formOrder .acf-field[data-name="berat_produk_sales"] input').val(totalweight.toFixed(0));
+        if (totalweight.toFixed(0) != 0) {
+            $("#cartPopup #textCheckout .subtotal small").text(' %0ABerat : ' + kilo(totalweight.toFixed(0)));
+        }
+
+        $('form#formOrder .acf-field[data-name="data_order_sales"] .acf-input').find('input').val($("#cartPopup #textCheckout").text());
+        
+        $('#cartPopup .listItem').each(function() {
+            $('.qtyMin', this).on('click', function() {
+                var el = $(this).parents('.listItem').find('.qty');
+                var value = $(this).parents('.listItem').find('.qty').val();
+                var qty = Number(value) - 1;
+                if (qty <= 1) {
+                    $(el).val(1);
+                } else {
+                    $(el).val(qty);
+                }
+                // set
+                var parents = $(this).parents('.listProduct').attr('id');
+                var id = $(this).parents('.listItem').attr('data-id');
+                TokoWA_setLocalStorage(parents, id);
+            });
+            $('.qtyPlus', this).on('click', function() {
+                var el = $(this).parents('.listItem').find('.qty');
+                var value = $(this).parents('.listItem').find('.qty').val();
+                var qty = Number(value) + 1;
+                $(el).val(qty);
+                // set
+                var parents = $(this).parents('.listProduct').attr('id');                
+                var id = $(this).parents('.listItem').attr('data-id');         
+                TokoWA_setLocalStorage(parents, id);
+
+            });
+            $('.qty', this).on('change blur', function() {
+                value = $(this).val();
+                if (value <= 1) {
+                    $(this).val(1);
+                }
+                // set
+                var parents = $(this).parents('.listProduct').attr('id');                
+                var id = $(this).parents('.listItem').attr('data-id');
+                TokoWA_setLocalStorage(parents, id);
+            });
+            $('.note', this).keypress(function(e) {
+                if (e.which == 13) {
+                    // set
+                    var parents = $(this).parents('.listProduct').attr('id');                    
+                    var id = $(this).parents('.listItem').attr('data-id');
+                    TokoWA_setLocalStorage(parents, id);
+                }
+            });
+            $('.note', this).on('change blur', function() {
+                // set
+                var parents = $(this).parents('.listProduct').attr('id');                
+                var id = $(this).parents('.listItem').attr('data-id');
+                TokoWA_setLocalStorage(parents, id);
+            });
+        });
+    }
+
+    // view
+    $(document).on('click', '.openCart, .vieTokoWA', function() {
+
+        $('#cartPopup .btnCheckout').removeClass('active');
+        $('#cartPopup #listCartPopup').show();
+        $('#cartPopup .cartForm').hide();
+    });
+    // add
+    $(document).on('click', '.item_product .orderBtn a.orderCart', function() {
+        // set
+        var parents = $(this).parents('.listProduct').attr('id');
+        var id = $(this).parents('.item_product').attr('data-id');
+        TokoWA_setLocalStorage(parents, id);
+
+        $('#cartPopup .btnCheckout').removeClass('active');
+        $('#cartPopup #listCartPopup').show();
+        $('#cartPopup .cartForm').hide();
+    });
+    // checkout
+    $(document).on('click', '.item_product .orderBtn a.orderCheckout', function() {
+        // set
+        var parents = $(this).parents('.listProduct').attr('id');
+        var id = $(this).parents('.item_product').attr('data-id');
+        TokoWA_setLocalStorage(parents, id);
+
+        $('#cartPopup .btnCheckout').addClass('active');
+        $('#cartPopup .cartForm').slideDown();
+        $('#cartPopup #listCartPopup').hide();
+        setTimeout(function() {
+            $('#cartPopup .cartForm .nama').focus();
+        }, 100);
+    });
+    function TokoWA_checkLocalStorage(id){
+        var state = 'false';
+        var result = [];
+        var value = [];
+        var index = '';
+        var id_temp = '';
+        for (i = 0; i < localStorage.length; i++) {
+            cookies = localStorage.key(i);
+            temp = cookies.substring(0, store_id.length);
+            if (temp == store_id && state == 'false') {
+                index = cookies.substring(store_id.length, store_id.length + 5);                
+                value = decodeURIComponent(cookies);
+                value = value.replace(temp, '');
+                value = value.replace(index, '');
+                value = value.replace('[', '');
+                value = value.replace(']', '');
+                if (value == id) {
+                    state = 'true';
+                    id_temp = cookies;
+                    break;
+                }
+            }
+        }
+        result = [state,id_temp];
+        return result;
+    }
+    function TokoWA_setLocalStorage(parents, id) {    
+        temp = TokoWA_checkLocalStorage(id);
+        if (temp[0] == 'true') {
+             id_temp = temp[1];        
+        }else{
+            id_temp = store_id + '[' + ("00" + TokoWA_getIndexKey()).slice(-3) + '][' + id + ']'
+        }
+        img = $('#' + parents + ' [data-id="' + id + '"] .img').attr('src');
+        link = $('#' + parents + ' [data-id="' + id + '"] .link').attr('href');
+        title = $('#' + parents + ' [data-id="' + id + '"] .title').attr('data-title');
+        price = Number($('#' + parents + ' [data-id="' + id + '"] .price').attr('data-price'));
+        weight = Number($('#' + parents + ' [data-id="' + id + '"] .weight').attr('data-weight'));
+        note = $('#' + parents + ' [data-id="' + id + '"] .note').val();
+        qty = Number($('#' + parents + ' [data-id="' + id + '"] .qty').val());
+        calcPrice = qty * price;
+        amountprice = calcPrice.toFixed(0);
+        calcWeight = qty * weight;
+        amountweight = calcWeight.toFixed(0);
+
+        dataStorage = { 'img': img, 'link': link, 'title': title, 'price': price, 'amountprice': amountprice, 'weight': weight, 'amountweight': amountweight, 'note': note, 'qty': qty };
+        myJSON = JSON.stringify(dataStorage);
+        localStorage.setItem(id_temp, myJSON);
+
+        // clear
+        $('.listCart').html('');
+        $('select#acf-field_5dc42eeab3e5e').html('');
+
+        // get
+        TokoWA_loadLocalStorage();
+    }
+
+    $('#cartPopup').on('click', '.btnCheckout', function() {
+        $(this).toggleClass('active');
+        $('#cartPopup #listCartPopup').slideToggle();
+        $('#cartPopup .cartForm').slideToggle();
+        $('#cartPopup .cartForm .nama').focus();
+    });
+    // get
+    $(document).ready(function() {
+        TokoWA_loadLocalStorage();
+    });
+    function TokoWA_getKeyLocalStorage() {
+        var result = [];
+        var value = [];
+        var index = '';
+        var key = '';
+        var i = 0;
+        var j = 0;
+        for (i = 0; i < localStorage.length; i++) {
+            cookies = localStorage.key(i).replace(/^ /, '');
+            temp = cookies.substring(0, store_id.length);
+            if (temp == store_id) {
+                index = cookies.substring(store_id.length, store_id.length + 5);
+                key = index.replace('[', '');
+                key = key.replace(']', '');
+
+                value = decodeURIComponent(cookies);
+                value = value.replace(temp, '');
+                value = value.replace(index, '');
+                value = value.replace('[', '');
+                value = value.replace(']', '');
+                result[key] = [value];
+                j = j + 1;
+            }
+        }
+        if (j == 0) {
+            $('#cartHeader .off, #cartPopup .off').show();
+            $('#cartHeader .on, #cartPopup .on').hide();
+            $('.btnCart .count').hide();
+            $('.btnCart .count').text('');
+        } else {
+            $('.btnCart .count').show();
+            $('.btnCart .count').text(j);
+            $('#cartHeader .off, #cartPopup .off').hide();
+            $('#cartHeader .on, #cartPopup .on').show();
+        }
+        return result;
+    }    
+    function TokoWA_getIndexKey(){
+        var result = 0;
+        var arr_temp = [];
+        var array = TokoWA_getKeyLocalStorage();
+        for (var value in array) {           
+            arr_temp.push(parseInt(value));            
+        } 
+        if (arr_temp.length == 0){
+            result = 1;
+        }else{
+            result =  Math.max.apply(null, arr_temp) + 1;
+        }
+        return result;
+    }
+    function TokoWA_getValueLocalStorage(id_temp) {
+        id = store_id + id_temp;
+        temp = localStorage.getItem(id);
+        values = JSON.parse(temp);
+        // alert(id);
+
+        var dataID = id_temp.replace(id_temp.substring(0,5), '');
+        dataID = dataID.replace('[', '');
+        dataID = dataID.replace(']', '');
+        var id_produk = dataID.replace('product_', '').split('_')[0] ;
+
+        $('select#acf-field_5dc42eeab3e5e').prepend('\
+        <option value="' + id_produk + '" selected>' + values.title + '</option>\
+        ');
+        $('#listCartHeader').prepend('\
+        <li class="listItem" data-id="' + dataID + '">\
+            <div class="left">\
+                <a href="' + values.link + '"><img class="img" src="' + values.img + '"/></a>\
+            </div>\
+            <div class="center">\
+                <h3 class="title" data-title="' + values.title + '"><a class="link" href="' + values.link + '">' + values.title + '</a></h3>\
+                <small class="note">' + values.note + '</small>\
+            </div>\
+            <div class="right">\
+                <b class="price" data-price="' + values.price + '">' + angkaToRp(values.price) + '</b> <small>x</small> <span class="qty">' + values.qty + '</span>\
+                <br/>\
+                <a class="removeProductCart" href="javascript:void(0);" title="Hapus produk?"><small>Hapus</small></a>\
+            </div>\
+        </li>\
+        ');
+        $('#listCartPopup').prepend('\
+        <li class="listItem" data-id="' + dataID + '">\
+            <div class="left">\
+                <a href="' + values.link + '"><img class="img" src="' + values.img + '"/></a>\
+            </div>\
+            <div class="center">\
+                <h3 class="title" data-title="' + values.title + '"><a class="link" href="' + values.link + '">' + values.title + '</a></h3>\
+                <button class="qtyMin">-</button><input class="qty" type="number" value="' + values.qty + '" min="1" placeholder="Qty"/><button class="qtyPlus">+</button>\
+                <noscript class="price" data-price="' + values.price + '">' + angkaToRp(values.price) + '</noscript>\
+                <noscript class="weight" data-weight="' + values.weight + '">' + values.weight + '</noscript>\
+                <br/>\
+                <input type="text" class="note" placeholder="Tambahkan Catatan..." value="' + values.note + '"/>\
+                </small>\
+            </div>\
+            <div class="right">\
+                <b class="amountprice" data-amountprice="' + values.amountprice + '" title="Jumlah">' + angkaToRp(values.amountprice) + '</b>\
+                <small class="amountweight" data-amountweight="' + values.amountweight + '" title="Berat Produk">' + kilo(values.amountweight) + '</small>\
+                <br/>\
+                <a class="removeProductCart" href="javascript:void(0);" title="Hapus produk?"><small>Hapus</small></a>\
+            </div>\
+        </li>\
+        ');
+
+        $('#textCheckout .listCart').prepend('\
+<span class="listItem" data-id="' + dataID + '">*' + values.title + '*%0A\
+' + values.link + '%0A\
+' + values.qty + ' x ' + angkaToRp(values.price) + ' ( *' + angkaToRp(values.amountprice) + '* )%0A\
+_' + values.note + '_%0A%0A</span>');
+    }
+
+    if ($('#slide').html() != undefined) {
+        $('#slide .owl-carousel').owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoHeight: false,
+            lazyLoad: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            margin: 0,
+            nav: true,
+            navText: ["<i class='icon ion-ios-arrow-back'></i>", "<i class='icon ion-ios-arrow-forward'></i>"],
+            items: 1,
+            dots: true,
+            responsive: {
+                769: {
+                    mouseDrag: false,
+                    touchDrag: false,
+                    pullDrag: false,
+                },
+            },
+        });
+        $(window).bind('load', function() {
+            var slideimgFirst = $('#slide .owl-carousel').find('img:first').width() / 2;
+            $('#slide .owl-stage-outer').attr('style', 'height:' + slideimgFirst + 'px!important;');
+        });
+    }
+
+
+    if ($('.imgProducts').html() != undefined) {
+        $('.imgProducts').owlCarousel({
+            loop: false,
+            autoHeight: false,
+            lazyLoad: true,
+            margin: 0,
+            nav: true,
+            navText: ["<i class='icon ion-ios-arrow-back'></i>", "<i class='icon ion-ios-arrow-forward'></i>"],
+            items: 1,
+            dots: true,
+            responsive: {
+                769: {
+                    mouseDrag: false,
+                    touchDrag: false,
+                    pullDrag: false,
+                    smartSpeed: 0,
+                },
+            },
+        });
+    }
+
+
+    $(window).bind('load', function() {
+        lazyload();
+    });
+
+    $(document).ready(function() {
+        if ($('#slide-ulasan').html() != undefined) {
+            $('#slide-ulasan .owl-carousel').owlCarousel({
+                loop: true,
+                center: true,
+                navText: ["<i class='icon ion-ios-arrow-back'></i>", "<i class='icon ion-ios-arrow-forward'></i>"],
+                autoHeight: false,
+                responsive: {
+                    // breakpoint from 0 up
+                    0: {
+                        items: 1,
+                        stagePadding: 60,
+                        margin: 10,
+                        nav: true,
+                    },
+                    // breakpoint from 480 up
+                    769: {
+                        items: 2,
+                        nav: false,
+                    },
+                    // breakpoint from 768 up
+                    1069: {
+                        margin: 20,
+                        items: 3,
+                    }
+                }
+            });
+        }
+    });
+    // remove
+    $(document).on('click', '.removeProductCart', function() {
+
+        if (confirm("Yakin ingin menghapus produk ini?")) {
+            var id = $(this).parents('.listItem').attr('data-id');
+            temp = TokoWA_checkLocalStorage(id);
+            if (temp[0] == 'true') {
+                id_temp = temp[1];      
+                localStorage.removeItem(id_temp);
+                // clear
+                $('.listCart').html('');
+                $('select#acf-field_5dc42eeab3e5e').html('');
+                // get
+                TokoWA_loadLocalStorage();  
+            }
+        } else {
+            return false;
+        }
+    });
+
+
+    // var tw_payment = {
+    //  'Transfer BCA' : '4371278065 A/n. Rian Nurherdian',
+    //  'Paypal' : 'kangrian14@gmail.com',
+    //  'DANA' : '0896-1888-5066',
+    // };
+
+    // var tw_shipping = {
+    //     'Standar' : 'JNE, J&T, SICEPAT, dsb..',
+    //     'GO-SEND' : 'Bandung Only',
+    //     'Pick-up!' : 'Ambil di Tempat',
+    // };
+
+    // var arr_payment = tw_payment;
+    // $.each(arr_payment, function(key, value) {
+    //  $('#checkoutWA .pembayaran optgroup').append('<option value="'+key+'%0A'+value+'">'+key+' (' +value+ ')</option>');
+    // });
+
+    // var arr_shipping = tw_shipping;
+    // $.each(arr_shipping, function(key, value) {
+    //     $('#checkoutWA .pengiriman optgroup').append('<option value="'+key+'%0A'+value+'">'+key+' (' +value+ ')</option>');
+    // });
+
+    $('.poptamvBtn').one('click', function() {
+        $('body').addClass('hideScroll');
+        var title = $(this).attr('data-title');
+        var target = '#' + $(this).attr('data-target');
+        $(target).addClass('open');
+        $(target).find('.titletamv-content').html(title);
+        if ($(this).attr('data-iframe') != null) {
+            var iframe = $(this).attr('data-iframe');
+            $(target).find('iframe').remove();
+            $(target).find('.content').prepend('<iframe src="' + iframe + '" />');
+        }
+    });
+    $('.poptamvBtn').on('click', function() {
+        $('body').addClass('hideScroll');
+        var title = $(this).attr('data-title');
+        var target = '#' + $(this).attr('data-target');
+        $(target).addClass('open');
+        $(target).find('.titletamv-content').html(title);
+        if ($(this).attr('data-width') != null) {
+            var width = $(this).attr('data-width');
+            $(target).find('.wrap').attr('style', 'max-width:' + width + 'px!important;')
+        }
+        $(target).find('.poptamv-img').remove();
+        if ($(this).attr('data-img') != null) {
+            var img = $(this).attr('data-img');
+            $(target).find('.content').prepend('<img class="poptamv-img" style="width:100%;height:auto;" src="' + img + '" />');
+        }
+        if ($(this).attr('data-time') != null) {
+            var time = $(this).attr('data-time');
+            $(target).find('.poptamv-time').remove();
+            $(target).find('.content').append('<div class="poptamv-time poptamv-wrap">' + time + '</div>');
+        }
+        if ($(this).attr('data-caption') != null) {
+            var caption = $(this).attr('data-caption');
+            $(target).find('.poptamv-caption').remove();
+            $(target).find('.content').append('<div class="poptamv-caption poptamv-wrap">' + caption + '</div>');
+        }
+    });
+
+    $('.poptamv .closeTamv').on('click', function() {
+        $('body').removeClass('hideScroll');
+        $(this).parents('.poptamv').removeClass('open');
+        $(this).parents('.poptamv').find('iframe').each(function(){
+          this.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*')
+        });
+    });
+
+    $(document).keyup(function(e) {
+        if (e.key === "Escape") {
+            $('.poptamv .closeTamv').trigger('click');
+        }
+    });
+
+    $(document).on('click', '.popWin', function() {
+        var target_url = $(this).attr('href'),
+            w = $(this).attr('data-popWidth'),
+            h = $(this).attr('data-popHeight');
+        if (w == null) {
+            w = 960;
+        }
+        if (h == null) {
+            h = 540;
+        }
+        left = Number((screen.width / 2) - (w / 2)),
+            tops = Number((screen.height / 2) - (h / 2)),
+            popupWindow = window.open(target_url, '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=1, copyhistory=no, width=' + w + ', height=' + h + ', top=' + tops + ', left=' + left);
+        popupWindow.focus();
+        return false;
+    });
+})(jQuery);
+(function($) {
+    $('.formWA [type=email]').each(function(){
+        $(this).val('-').trigger('change');
+        $(this).closest('.grid-wa').attr('style','grid-template-columns:1fr');
+        $(this).closest('.item').hide();
+    });
+    $('#ulasanProduk [type=email]').each(function(){
+        $(this).val('ulasan@'+window.location.hostname).trigger('change');
+        $(this).closest('[data-name=email_ulasan]').hide();
+    });
+    
+})(jQuery);
